@@ -1,0 +1,1269 @@
+#
+###################################################################################################################################
+#
+# Bienvenido a Robots.txt de PcComponentes :)
+#
+###################################################################################################################################
+#   _____                _                                   _       
+#  / ____|              | |                                 | |      
+# | |     ___  _ __  ___| |_ _ __ _   _ _   _  ___ _ __   __| | ___  
+# | |    / _ \| '_ \/ __| __| '__| | | | | | |/ _ \ '_ \ / _` |/ _ \ 
+# | |___| (_) | | | \__ \ |_| |  | |_| | |_| |  __/ | | | (_| | (_) |
+#  \_____\___/|_| |_|___/\__|_|   \__,_|\__, |\___|_| |_|\__,_|\___/ 
+#       | |                              __/ |                       
+#   __ _| | __ _  ___                   |___/                        
+#  / _` | |/ _` |/ _ \                                               
+# | (_| | | (_| | (_) |                                              
+#  \__,_|_|\__, |\___/       _         __                            
+#           __/ |           | |        \ \                           
+#   __ _ _ |___/ _ _ __   __| | ___   (_) |                          
+#  / _` | '__/ _` | '_ \ / _` |/ _ \    | |                          
+# | (_| | | | (_| | | | | (_| |  __/   _| |                          
+#  \__, |_|  \__,_|_| |_|\__,_|\___|  (_) |                          
+#   __/ |                              /_/                           
+#  |___/ 
+#
+###################################################################################################################################
+
+## GENERAL SETTINGS
+
+User-agent: *
+
+
+## SITEMAPS 
+
+# SITEMAP INDEX
+Sitemap: https://www.pccomponentes.com/sitemap.xml
+
+# SITEMAP PRODUCTS INDEX
+Sitemap: https://www.pccomponentes.com/sitemap_articles.xml
+
+# SITEMAP PRODUCTS BY PARENT
+Sitemap: https://www.pccomponentes.com/sitemap_articles_components.xml
+Sitemap: https://www.pccomponentes.com/sitemap_articles_computing.xml
+Sitemap: https://www.pccomponentes.com/sitemap_articles_mobile.xml
+Sitemap: https://www.pccomponentes.com/sitemap_articles_multimedia.xml
+Sitemap: https://www.pccomponentes.com/sitemap_articles_peripherals.xml
+Sitemap: https://www.pccomponentes.com/sitemap_articles_tablets.xml
+Sitemap: https://www.pccomponentes.com/sitemap_articles_gaming.xml
+Sitemap: https://www.pccomponentes.com/sitemap_articles_printing.xml
+Sitemap: https://www.pccomponentes.com/sitemap_articles_smarthome.xml
+Sitemap: https://www.pccomponentes.com/sitemap_articles_home_appliances.xml
+Sitemap: https://www.pccomponentes.com/sitemap_articles_networking.xml
+Sitemap: https://www.pccomponentes.com/sitemap_articles_lifestyle.xml
+
+# SITEMAP CATEGORIES
+Sitemap: https://www.pccomponentes.com/sitemap_categories.xml
+
+# SITEMAP AMP PRODUCTS INDEX
+Sitemap: https://www.pccomponentes.com/sitemap_amp.xml
+
+# SITEMAP AMP PRODUCTS BY PARENT
+Sitemap: https://www.pccomponentes.com/sitemap_amp_components.xml
+Sitemap: https://www.pccomponentes.com/sitemap_amp_computing.xml
+Sitemap: https://www.pccomponentes.com/sitemap_amp_mobile.xml
+Sitemap: https://www.pccomponentes.com/sitemap_amp_multimedia.xml
+Sitemap: https://www.pccomponentes.com/sitemap_amp_peripherals.xml
+Sitemap: https://www.pccomponentes.com/sitemap_amp_tablets.xml
+Sitemap: https://www.pccomponentes.com/sitemap_amp_gaming.xml
+Sitemap: https://www.pccomponentes.com/sitemap_amp_printing.xml
+Sitemap: https://www.pccomponentes.com/sitemap_amp_smarthome.xml
+Sitemap: https://www.pccomponentes.com/sitemap_amp_home_appliances.xml
+Sitemap: https://www.pccomponentes.com/sitemap_amp_networking.xml
+Sitemap: https://www.pccomponentes.com/sitemap_amp_lifestyle.xml
+
+# SITEMAP BLOG
+Sitemap: https://www.pccomponentes.com/sitemap_blog.xml
+
+
+## PRIVATE URLS
+
+# Disallow: /login
+Disallow: /samanta/
+Disallow: /usuarios/*
+Disallow: /core/*
+Disallow: /cart/*
+Disallow: /sf-*
+Disallow: /lista-de-deseos/*
+Disallow: /members.php*
+Disallow: /ticket_regalo.php*
+
+## CORPORATIVE PAGES
+
+# STATICS
+Disallow: /cookies
+Allow: /privacidad-seguridad-aplicaciones-moviles
+Disallow: /privacidad
+Disallow: /aviso-legal
+
+## CRAWL BUDGET OPTIMIZATION
+
+# 3+ FILTERS
+Disallow: /*/*/*/*/*
+
+# QUERIES
+Disallow: /buscar/?query=*
+
+# AVAILABILITY UX
+Disallow: */madrid
+Disallow: */murcia
+Disallow: */stock
+Disallow: */*?acc=av
+
+# PRICE HISTORY
+Disallow: /a/*/historicprices
+
+# COMPLEMENTS
+#Disallow: /a/complements/*
+
+#RECOMMENDER
+Disallow:/a/recommendations*
+
+# OLD IMAGE LOCATIONS
+Disallow: /imagenes/*
+Disallow: /img_stock_completo.php*
+Disallow: /leyenda_stock.php*
+Disallow: /fotos/*
+
+# TECHNICAL RESOURCES
+Disallow: /ajax_nc/*
+Disallow: /ajax/configurador/articulos*
+Disallow: /bundles/*
+Allow: /bundles/fosjsrouting/*
+Disallow: /ads.txt
+Disallow: /js/pccpop.js
+Disallow: /config-*
+Disallow: /carrito.php*
+Disallow: /formulario_avisame.php*
+Disallow: /*?view=*
+Disallow: /imprimir.php*
+Disallow: /*?tag=*
+
+# TECHNICAL ISSUES
+Disallow: /*?page=0
+Disallow: /*?page=1
+Disallow: /0
+Disallow: /amp/0
+
+# REFURBISHED PRODUCTS - Commented on 12-14-2018
+#Disallow: /*reacondicionado$
+#Disallow: /*/reacondicionado$
+#Disallow: /*reacondicionado*
+Allow: /soporte/productos-reacondicionados-refurbished-seminuevos-y-rastrillo
+Allow: /moviles-reacondicionados
+#Allow: /portatiles/*reacondicionado
+#Disallow: /*refurbished*
+#Disallow: /*-cpo-libre$
+#Disallow: /*-recertified$
+#Disallow: /rastrillo/*
+
+# DOCS, PDF AND MEDIA 
+Disallow: /informes/*
+Disallow: /docs/*
+
+
+# USELESS RESOURCES
+Disallow: /comethunter
+Disallow: /stargate
+
+
+# GROUNDWORK
+Disallow: /promocion-tintas-cartuchos-hp*
+Disallow: /pbf2017
+Disallow: /cbm2017
+Disallow: /seleccion*
+Allow: /seleccion-educacion
+Disallow: /boletines/*
+#Disallow: /ofertas/*
+Disallow: /rec-elec
+
+# TRACKING CODES
+Disallow: /*?__cn_tracker*
+
+# BRANDED PAGES AS DUPLICATES
+Allow: /xiaomi$
+Allow: /asus$
+Allow: /tp-link$
+Allow: /apple$
+Allow: /lenovo$
+Allow: /gopro$
+Allow: /msi$
+Allow: /medion$
+Allow: /sjcam$
+Allow: /leotec$
+Allow: /razer$
+Allow: /oneplus$
+Allow: /huawei$
+Allow: /hp$
+Allow: /irobot$
+Allow: /corsair$
+Allow: /newskill$
+Allow: /dell$
+Allow: /nzxt$
+Allow: /garmin$
+Allow: /nk$
+Allow: /engel$
+Allow: /doogee$
+Allow: /ubiquiti-networks$
+Allow: /steelseries$
+Allow: /samsung$
+Allow: /synology$
+Allow: /approx$
+Allow: /cooler-master$
+Allow: /spigen$
+Allow: /kaspersky$
+Allow: /daitsu$
+Allow: /nox$
+Allow: /minix$
+Allow: /dyson$
+Allow: /dxracer$
+Allow: /nokia$
+Allow: /tomtom$
+Allow: /hannspree$
+Allow: /unotec$
+Allow: /logitech$
+Allow: /thermaltake$
+Allow: /cecotec$
+Allow: /d-link$
+Allow: /denver-electronics$
+Allow: /gigabyte$
+Allow: /qnap$
+Allow: /jbl$
+Disallow: /oem$
+Allow: /owlotech$
+Allow: /energy-sistem$
+Allow: /thunder-x3$
+Allow: /aerocool$
+Allow: /elgato$
+Allow: /orbegozo$
+Allow: /sharkoon$
+Allow: /zotac$
+Allow: /nacon$
+Allow: /mad-catz$
+Allow: /benq$
+Allow: /brother$
+Allow: /conceptronic$
+Allow: /tacens$
+Allow: /startech$
+Allow: /the-g-lab$
+Allow: /bq$
+Allow: /lg$
+Allow: /phanteks$
+Allow: /brigmton$
+Allow: /sapphire$
+Allow: /avermedia$
+Allow: /kobo$
+Allow: /ollas-gm$
+Allow: /iwatboard$
+Allow: /plantronics$
+Allow: /sandisk$
+Allow: /thrustmaster$
+Allow: /acer$
+Allow: /evga$
+Allow: /tronsmart$
+Allow: /facitel$
+Allow: /raspberry$
+Allow: /htc$
+Allow: /topcom$
+Allow: /leagoo$
+Allow: /rikomagic$
+Allow: /spc$
+Allow: /i-joy$
+Allow: /noctua$
+Allow: /alcatel$
+Allow: /sennheiser$
+Allow: /sony$
+Allow: /dji$
+Allow: /fujitsu$
+Allow: /motorola$
+Allow: /aoc$
+Allow: /tristar$
+Allow: /mannesmann$
+Allow: /pioneer$
+Allow: /ngs$
+Allow: /silverht$
+Allow: /becool$
+Allow: /smartgyro$
+Disallow: /enermax$
+Disallow: /vernee$
+Disallow: /devolo$
+Disallow: /haier$
+Disallow: /bluedio$
+Disallow: /cablemod$
+Disallow: /parrot$
+Disallow: /philips$
+Disallow: /l-link$
+Disallow: /hisense$
+Disallow: /tritton$
+Disallow: /optoma$
+Disallow: /sogo$
+Disallow: /trust$
+Disallow: /turtle-beach$
+Disallow: /canon$
+Disallow: /zowie$
+Disallow: /hori$
+Disallow: /intel$
+Disallow: /nintendo$
+Disallow: /amd$
+Disallow: /meizu$
+Disallow: /creative$
+Disallow: /apc$
+Disallow: /nfortec$
+Disallow: /cityboard$
+Disallow: /nanocable$
+Disallow: /viewsonic$
+Disallow: /g-skill$
+Disallow: /epson$
+Disallow: /polar$
+Disallow: /kingston$
+Disallow: /tooq$
+Disallow: /wattio$
+Disallow: /bose$
+Disallow: /seagate$
+Disallow: /ulefone$
+Disallow: /wl-toys$
+Disallow: /b-move$
+Disallow: /fractal$
+Disallow: /ezviz$
+Disallow: /cubot$
+Disallow: /honeywell$
+Disallow: /indeca-business$
+Disallow: /cooltek$
+Disallow: /wolder$
+Disallow: /iris$
+Disallow: /superlux$
+Disallow: /woxter$
+Disallow: /razor$
+Disallow: /brennenstuhl$
+Disallow: /digitus$
+Disallow: /edimax$
+Disallow: /rowenta$
+Disallow: /astro$
+Disallow: /10pos$
+Disallow: /western-digital$
+Disallow: /antec$
+Disallow: /gigatv$
+Disallow: /thomson$
+Disallow: /one-for-all$
+Disallow: /tamron$
+Disallow: /wise-pet$
+Disallow: /mini-moka$
+Disallow: /interline$
+Disallow: /camgloss$
+Disallow: /russell-hobbs$
+Disallow: /olympus$
+Disallow: /power-a$
+Disallow: /fellowes$
+Disallow: /moleskine$
+Disallow: /1life$
+Disallow: /metrologic$
+Disallow: /black-decker$
+Disallow: /maximun-games$
+Disallow: /pny$
+Disallow: /whirlpool$
+Disallow: /singer$
+Disallow: /safescan$
+Disallow: /tefal$
+Disallow: /leef$
+Disallow: /vogel-s$
+Disallow: /shure$
+Disallow: /presonus$
+Disallow: /arctic$
+Disallow: /ik-multimedia$
+Disallow: /rollei$
+Disallow: /smile$
+Disallow: /rommer$
+Disallow: /primux$
+Disallow: /natec$
+Disallow: /panda$
+Disallow: /promethean$
+Disallow: /schwaiger$
+Disallow: /powercube$
+Disallow: /axil$
+Disallow: /muvit$
+Disallow: /konami$
+Disallow: /brita$
+Disallow: /intenso$
+Disallow: /rode$
+Disallow: /maxtor$
+Disallow: /remington$
+Disallow: /transcend$
+Disallow: /ovislink$
+Disallow: /yzsy$
+Disallow: /foscam$
+Disallow: /molin$
+Disallow: /zebra$
+Disallow: /polti$
+Disallow: /wahl$
+Disallow: /asp$
+Disallow: /ilife$
+Disallow: /segway$
+Disallow: /nevir$
+Disallow: /yizhan$
+Disallow: /iggual$
+Disallow: /ecogyro$
+Disallow: /purline$
+Disallow: /palit$
+Disallow: /dymo$
+Disallow: /bigben$
+Disallow: /lacie$
+Disallow: /wiko$
+Disallow: /skateflash$
+Disallow: /panasonic$
+Disallow: /bultaco$
+Disallow: /denon$
+Disallow: /marshall$
+Disallow: /amica$
+Disallow: /noblechairs$
+Disallow: /whirpool$
+Disallow: /mr-wonderful$
+Disallow: /level-one$
+Disallow: /princess$
+Disallow: /fujifilm$
+Disallow: /varios-$
+Disallow: /krups$
+Disallow: /m-audio$
+Disallow: /radiotec$
+Disallow: /kyocera$
+Disallow: /google$
+Disallow: /babyliss$
+Disallow: /sigma$
+Disallow: /ksix$
+Disallow: /krk-systems$
+Disallow: /grundig$
+Disallow: /gigaset$
+Disallow: /nescafe$
+Disallow: /seasonic$
+Disallow: /north-bayou$
+Disallow: /canubo$
+Disallow: /linksys$
+Disallow: /activision-blizzard$
+Disallow: /nanoxia$
+Disallow: /milestone$
+Disallow: /mackie$
+Disallow: /keep-out$
+Disallow: /huion$
+Disallow: /warner-bross-games$
+Disallow: /take2$
+Disallow: /salicru$
+Disallow: /manfrotto$
+Disallow: /daga$
+Disallow: /nikon$
+Disallow: /arctic-silver$
+Disallow: /weimei$
+Disallow: /sega$
+Disallow: /zanussi$
+Disallow: /microsoft$
+Disallow: /netgear$
+Disallow: /indesit$
+Disallow: /casio$
+Disallow: /ricoh$
+Disallow: /bicwoeld$
+Disallow: /avenzo$
+Disallow: /kaos$
+Disallow: /brandt$
+Disallow: /kensington$
+Disallow: /symantec$
+Disallow: /billow$
+Disallow: /aeg$
+Disallow: /sunhans$
+Disallow: /focusrite$
+Disallow: /zuk$
+Disallow: /krom$
+Disallow: /koch-media$
+Disallow: /kodak$
+Disallow: /zte$
+Disallow: /tempest$
+Disallow: /ufesa$
+Disallow: /bomann$
+Disallow: /braun$
+Disallow: /liteon$
+Disallow: /roland$
+Disallow: /mitsubishi$
+Disallow: /olimpia-splendid$
+Disallow: /parkingdoor$
+Disallow: /point-of-view$
+Disallow: /zyxel$
+Disallow: /ecovacs$
+Disallow: /honor$
+Disallow: /mikrotik$
+Disallow: /smartmaterials$
+Disallow: /tascam$
+Disallow: /qintex$
+Disallow: /eminent$
+Disallow: /ortofon$
+Disallow: /trendnet$
+Disallow: /tfa-dostmann$
+Disallow: /easypix$
+Disallow: /hyperkin$
+Disallow: /pccomponentes-com$
+Disallow: /e-vitta$
+Disallow: /ozone$
+Disallow: /vileda$
+Disallow: /mobvoi$
+Disallow: /polarpro$
+Disallow: /techair$
+Disallow: /propel$
+Disallow: /smeg$
+Disallow: /a-data$
+Disallow: /vogels$
+Disallow: /wacom$
+Disallow: /clarion$
+Disallow: /sakata-3d$
+Disallow: /german-tech$
+Disallow: /innjoo$
+Disallow: /oki$
+Disallow: /beurer$
+Disallow: /vivolink$
+Disallow: /vivo$
+Disallow: /ismart$
+Disallow: /delonghi$
+Disallow: /sony-ericsson$
+Disallow: /arduino$
+Disallow: /pccablenet$
+Disallow: /sonos$
+Disallow: /hyundai$
+Disallow: /livall$
+Disallow: /fischertechnik$
+Disallow: /cisco$
+Disallow: /schneider$
+Disallow: /nubia$
+Disallow: /kenwood$
+Disallow: /phoenix$
+Disallow: /duracell$
+Disallow: /505-games$
+Disallow: /techland$
+Disallow: /clatronic$
+Disallow: /colorway$
+Disallow: /3dconnexion$
+Disallow: /be-ez$
+Disallow: /bissel$
+Disallow: /bg$
+Disallow: /akracing$
+Disallow: /numark$
+Disallow: /moebyus$
+Disallow: /teka$
+Disallow: /oculus-vr$
+Disallow: /microconnect$
+Disallow: /siswoo$
+Disallow: /made-for-xperia$
+Disallow: /blue-mic$
+Disallow: /satycon$
+Disallow: /namco-bandai$
+Disallow: /karcher-$
+Disallow: /solac$
+Disallow: /nvidia$
+Disallow: /rearth$
+Disallow: /satechi$
+Disallow: /cherry$
+Disallow: /idusd$
+Disallow: /beko$
+Disallow: /xyzprinting$
+Disallow: /colorfly$
+Disallow: /riello$
+Disallow: /audio-technica$
+Disallow: /zeiss$
+Disallow: /zoom$
+Disallow: /toshiba$
+Disallow: /moneual$
+Disallow: /cat$
+Disallow: /pilot$
+Disallow: /menalux$
+Disallow: /parlux$
+Disallow: /ozobot$
+Disallow: /sunstech$
+Disallow: /marcilla$
+Disallow: /hyperx$
+Disallow: /electrolux$
+Disallow: /bluestork$
+Disallow: /kitchenaid$
+Disallow: /allen-heath$
+Disallow: /ea$
+Disallow: /inew$
+Disallow: /ewent$
+Disallow: /ariete$
+Disallow: /ghd$
+Disallow: /moulinex$
+Disallow: /alto-professional$
+Disallow: /daewoo$
+Disallow: /casals$
+Disallow: /siemens$
+Disallow: /evitta$
+Disallow: /bresser$
+Disallow: /meridiem-games$
+Disallow: /daikin$
+Disallow: /drift$
+Disallow: /di4$
+Disallow: /new-pol$
+Disallow: /belson$
+Disallow: /tt-esports$
+Disallow: /badland-games$
+Disallow: /severin$
+Disallow: /proel$
+Disallow: /fitbit$
+Disallow: /technika$
+Disallow: /telefunken$
+Disallow: /ekwb$
+Disallow: /bogo$
+Disallow: /comfee$
+Disallow: /jata$
+Disallow: /discovery-adventures$
+Disallow: /equip$
+Disallow: /targus$
+Disallow: /nilox$
+Disallow: /rimax$
+Disallow: /racer$
+Disallow: /minibatt$
+Disallow: /stream-system$
+Disallow: /fritz$
+Disallow: /vitrokitchen$
+Disallow: /hercules$
+Disallow: /jvc$
+Disallow: /mushkin$
+Disallow: /xplora$
+Disallow: /ninebot$
+Disallow: /candy$
+Disallow: /adonit$
+Disallow: /microtouch$
+Disallow: /makeblock$
+Disallow: /verbatim$
+Disallow: /hoover$
+Disallow: /ubisoft$
+Disallow: /gioteck$
+Disallow: /crucial$
+Disallow: /asrock$
+Disallow: /cata$
+Disallow: /mcafee$
+Disallow: /generica$
+Disallow: /coquette$
+Disallow: /polaroid$
+Disallow: /toyota$
+Disallow: /taurus$
+Disallow: /otsein$
+Disallow: /varta$
+Disallow: /gear4$
+Disallow: /littium$
+Disallow: /oregon-scientific$
+Disallow: /bosch$
+Disallow: /belkin$
+Disallow: /thor-glass$
+Disallow: /rams-technology$
+Disallow: /eizo$
+Disallow: /caf-jurado$
+Disallow: /sharp$
+Disallow: /olympia$
+Disallow: /balay$
+Disallow: /silverstone$
+Disallow: /nseatgaming$
+Disallow: /vertagear$
+Disallow: /blu-sens$
+Disallow: /panzer-glass$
+Disallow: /2k$
+Disallow: /data-east$
+Disallow: /armor$
+Disallow: /v7$
+Disallow: /recreus$
+Disallow: /thermal-grizzly$
+Disallow: /blu$
+Disallow: /nest$
+Disallow: /xiaomi/*
+Disallow: /asus/*
+Disallow: /tp-link/*
+Disallow: /apple/*
+Disallow: /lenovo/*
+Disallow: /gopro/*
+Disallow: /msi/*
+Disallow: /medion/*
+Disallow: /sjcam/*
+Disallow: /leotec/*
+Disallow: /razer/*
+Disallow: /oneplus/*
+Disallow: /huawei/*
+Disallow: /hp/*
+Disallow: /irobot/*
+Disallow: /corsair/*
+Disallow: /newskill/*
+Disallow: /dell/*
+Disallow: /nzxt/*
+Disallow: /garmin/*
+Disallow: /nk/*
+Disallow: /engel/*
+Disallow: /doogee/*
+Disallow: /ubiquiti-networks/*
+Disallow: /steelseries/*
+Disallow: /samsung/*
+Disallow: /synology/*
+Disallow: /approx/*
+Disallow: /cooler-master/*
+Disallow: /spigen/*
+Disallow: /kaspersky/*
+Disallow: /daitsu/*
+Disallow: /nox/*
+Disallow: /minix/*
+Disallow: /dyson/*
+Disallow: /dxracer/*
+Disallow: /nokia/*
+Disallow: /tomtom/*
+Disallow: /hannspree/*
+Disallow: /unotec/*
+Disallow: /logitech/*
+Disallow: /thermaltake/*
+Disallow: /cecotec/*
+Disallow: /d-link/*
+Disallow: /denver-electronics/*
+Disallow: /gigabyte/*
+Disallow: /qnap/*
+Disallow: /jbl/*
+Disallow: /oem/*
+Disallow: /owlotech/*
+Disallow: /energy-sistem/*
+Disallow: /thunder-x3/*
+Disallow: /aerocool/*
+Disallow: /elgato/*
+Disallow: /orbegozo/*
+Disallow: /sharkoon/*
+Disallow: /zotac/*
+Disallow: /nacon/*
+Disallow: /mad-catz/*
+Disallow: /benq/*
+Disallow: /brother/*
+Disallow: /conceptronic/*
+Disallow: /tacens/*
+Disallow: /startech/*
+Disallow: /the-g-lab/*
+Disallow: /bq/*
+Disallow: /lg/*
+Disallow: /phanteks/*
+Disallow: /brigmton/*
+Disallow: /sapphire/*
+Disallow: /avermedia/*
+Disallow: /kobo/*
+Disallow: /ollas-gm/*
+Disallow: /iwatboard/*
+Disallow: /plantronics/*
+Disallow: /sandisk/*
+Disallow: /thrustmaster/*
+Disallow: /acer/*
+Disallow: /evga/*
+Disallow: /tronsmart/*
+Disallow: /facitel/*
+Disallow: /raspberry/*
+Disallow: /htc/*
+Disallow: /topcom/*
+Disallow: /leagoo/*
+Disallow: /rikomagic/*
+Disallow: /spc/*
+Disallow: /i-joy/*
+Disallow: /noctua/*
+Disallow: /alcatel/*
+Disallow: /sennheiser/*
+Disallow: /sony/*
+Disallow: /dji/*
+Disallow: /fujitsu/*
+Disallow: /motorola/*
+Disallow: /aoc/*
+Disallow: /tristar/*
+Disallow: /mannesmann/*
+Disallow: /pioneer/*
+Disallow: /ngs/*
+Disallow: /silverht/*
+Disallow: /becool/*
+Disallow: /smartgyro/*
+Disallow: /enermax/*
+Disallow: /vernee/*
+Disallow: /devolo/*
+Disallow: /haier/*
+Disallow: /bluedio/*
+Disallow: /cablemod/*
+Disallow: /parrot/*
+Disallow: /philips/*
+Disallow: /l-link/*
+Disallow: /hisense/*
+Disallow: /tritton/*
+Disallow: /optoma/*
+Disallow: /sogo/*
+Disallow: /trust/*
+Disallow: /turtle-beach/*
+Disallow: /canon/*
+Disallow: /zowie/*
+Disallow: /hori/*
+Disallow: /intel/*
+Disallow: /nintendo/*
+Disallow: /amd/*
+Disallow: /meizu/*
+Disallow: /creative/*
+Disallow: /apc/*
+Disallow: /nfortec/*
+Disallow: /cityboard/*
+Disallow: /nanocable/*
+Disallow: /viewsonic/*
+Disallow: /g-skill/*
+Disallow: /epson/*
+Disallow: /polar/*
+Disallow: /kingston/*
+Disallow: /tooq/*
+Disallow: /wattio/*
+Disallow: /bose/*
+Disallow: /seagate/*
+Disallow: /ulefone/*
+Disallow: /wl-toys/*
+Disallow: /b-move/*
+Disallow: /fractal/*
+Disallow: /ezviz/*
+Disallow: /cubot/*
+Disallow: /honeywell/*
+Disallow: /indeca-business/*
+Disallow: /cooltek/*
+Disallow: /wolder/*
+Disallow: /iris/*
+Disallow: /superlux/*
+Disallow: /woxter/*
+Disallow: /razor/*
+Disallow: /brennenstuhl/*
+Disallow: /digitus/*
+Disallow: /edimax/*
+Disallow: /rowenta/*
+Disallow: /astro/*
+Disallow: /10pos/*
+Disallow: /western-digital/*
+Disallow: /antec/*
+Disallow: /gigatv/*
+Disallow: /thomson/*
+Disallow: /one-for-all/*
+Disallow: /tamron/*
+Disallow: /wise-pet/*
+Disallow: /mini-moka/*
+Disallow: /interline/*
+Disallow: /camgloss/*
+Disallow: /russell-hobbs/*
+Disallow: /olympus/*
+Disallow: /power-a/*
+Disallow: /fellowes/*
+Disallow: /moleskine/*
+Disallow: /1life/*
+Disallow: /metrologic/*
+Disallow: /black-decker/*
+Disallow: /maximun-games/*
+Disallow: /pny/*
+Disallow: /whirlpool/*
+Disallow: /singer/*
+Disallow: /safescan/*
+Disallow: /tefal/*
+Disallow: /leef/*
+Disallow: /vogel-s/*
+Disallow: /shure/*
+Disallow: /presonus/*
+Disallow: /arctic/*
+Disallow: /ik-multimedia/*
+Disallow: /rollei/*
+Disallow: /smile/*
+Disallow: /rommer/*
+Disallow: /primux/*
+Disallow: /natec/*
+Disallow: /panda/*
+Disallow: /promethean/*
+Disallow: /schwaiger/*
+Disallow: /powercube/*
+Disallow: /axil/*
+Disallow: /muvit/*
+Disallow: /konami/*
+Disallow: /brita/*
+Disallow: /intenso/*
+Disallow: /rode/*
+Disallow: /maxtor/*
+Disallow: /remington/*
+Disallow: /transcend/*
+Disallow: /ovislink/*
+Disallow: /yzsy/*
+Disallow: /foscam/*
+Disallow: /molin/*
+Disallow: /zebra/*
+Disallow: /polti/*
+Disallow: /wahl/*
+Disallow: /asp/*
+Disallow: /ilife/*
+Disallow: /segway/*
+Disallow: /nevir/*
+Disallow: /yizhan/*
+Disallow: /iggual/*
+Disallow: /ecogyro/*
+Disallow: /purline/*
+Disallow: /palit/*
+Disallow: /dymo/*
+Disallow: /bigben/*
+Disallow: /lacie/*
+Disallow: /wiko/*
+Disallow: /skateflash/*
+Disallow: /panasonic/*
+Disallow: /bultaco/*
+Disallow: /denon/*
+Disallow: /marshall/*
+Disallow: /amica/*
+Disallow: /noblechairs/*
+Disallow: /whirpool/*
+Disallow: /mr-wonderful/*
+Disallow: /level-one/*
+Disallow: /princess/*
+Disallow: /fujifilm/*
+Disallow: /varios-/*
+Disallow: /krups/*
+Disallow: /m-audio/*
+Disallow: /radiotec/*
+Disallow: /kyocera/*
+Disallow: /google/*
+Disallow: /babyliss/*
+Disallow: /sigma/*
+Disallow: /ksix/*
+Disallow: /krk-systems/*
+Disallow: /grundig/*
+Disallow: /gigaset/*
+Disallow: /nescafe/*
+Disallow: /seasonic/*
+Disallow: /north-bayou/*
+Disallow: /canubo/*
+Disallow: /linksys/*
+Disallow: /activision-blizzard/*
+Disallow: /nanoxia/*
+Disallow: /milestone/*
+Disallow: /mackie/*
+Disallow: /keep-out/*
+Disallow: /huion/*
+Disallow: /warner-bross-games/*
+Disallow: /take2/*
+Disallow: /salicru/*
+Disallow: /manfrotto/*
+Disallow: /daga/*
+Disallow: /nikon/*
+Disallow: /arctic-silver/*
+Disallow: /weimei/*
+Disallow: /sega/*
+Disallow: /zanussi/*
+Disallow: /microsoft/*
+Disallow: /netgear/*
+Disallow: /indesit/*
+Disallow: /casio/*
+Disallow: /ricoh/*
+Disallow: /bicwoeld/*
+Disallow: /avenzo/*
+Disallow: /kaos/*
+Disallow: /brandt/*
+Disallow: /kensington/*
+Disallow: /symantec/*
+Disallow: /billow/*
+Disallow: /aeg/*
+Disallow: /sunhans/*
+Disallow: /focusrite/*
+Disallow: /zuk/*
+Disallow: /krom/*
+Disallow: /koch-media/*
+Disallow: /kodak/*
+Disallow: /zte/*
+Disallow: /tempest/*
+Disallow: /ufesa/*
+Disallow: /bomann/*
+Disallow: /braun/*
+Disallow: /liteon/*
+Disallow: /roland/*
+Disallow: /mitsubishi/*
+Disallow: /olimpia-splendid/*
+Disallow: /parkingdoor/*
+Disallow: /point-of-view/*
+Disallow: /zyxel/*
+Disallow: /ecovacs/*
+Disallow: /honor/*
+Disallow: /mikrotik/*
+Disallow: /smartmaterials/*
+Disallow: /tascam/*
+Disallow: /qintex/*
+Disallow: /eminent/*
+Disallow: /ortofon/*
+Disallow: /trendnet/*
+Disallow: /tfa-dostmann/*
+Disallow: /easypix/*
+Disallow: /hyperkin/*
+Disallow: /pccomponentes-com/*
+Disallow: /e-vitta/*
+Disallow: /ozone/*
+Disallow: /vileda/*
+Disallow: /mobvoi/*
+Disallow: /polarpro/*
+Disallow: /techair/*
+Disallow: /propel/*
+Disallow: /smeg/*
+Disallow: /a-data/*
+Disallow: /vogels/*
+Disallow: /wacom/*
+Disallow: /clarion/*
+Disallow: /sakata-3d/*
+Disallow: /german-tech/*
+Disallow: /innjoo/*
+Disallow: /oki/*
+Disallow: /beurer/*
+Disallow: /vivolink/*
+Disallow: /vivo/*
+Disallow: /ismart/*
+Disallow: /delonghi/*
+Disallow: /sony-ericsson/*
+Disallow: /arduino/*
+Disallow: /pccablenet/*
+Disallow: /sonos/*
+Disallow: /hyundai/*
+Disallow: /livall/*
+Disallow: /fischertechnik/*
+Disallow: /cisco/*
+Disallow: /schneider/*
+Disallow: /nubia/*
+Disallow: /kenwood/*
+Disallow: /phoenix/*
+Disallow: /duracell/*
+Disallow: /505-games/*
+Disallow: /techland/*
+Disallow: /clatronic/*
+Disallow: /colorway/*
+Disallow: /3dconnexion/*
+Disallow: /be-ez/*
+Disallow: /bissel/*
+Disallow: /bg/*
+Disallow: /akracing/*
+Disallow: /numark/*
+Disallow: /moebyus/*
+Disallow: /teka/*
+Disallow: /oculus-vr/*
+Disallow: /microconnect/*
+Disallow: /siswoo/*
+Disallow: /made-for-xperia/*
+Disallow: /blue-mic/*
+Disallow: /satycon/*
+Disallow: /namco-bandai/*
+Disallow: /karcher-/*
+Disallow: /solac/*
+Disallow: /nvidia/*
+Disallow: /rearth/*
+Disallow: /satechi/*
+Disallow: /cherry/*
+Disallow: /idusd/*
+Disallow: /beko/*
+Disallow: /xyzprinting/*
+Disallow: /colorfly/*
+Disallow: /riello/*
+Disallow: /audio-technica/*
+Disallow: /zeiss/*
+Disallow: /zoom/*
+Disallow: /toshiba/*
+Disallow: /moneual/*
+Disallow: /cat/*
+Disallow: /pilot/*
+Disallow: /menalux/*
+Disallow: /parlux/*
+Disallow: /ozobot/*
+Disallow: /sunstech/*
+Disallow: /marcilla/*
+Disallow: /hyperx/*
+Disallow: /electrolux/*
+Disallow: /bluestork/*
+Disallow: /kitchenaid/*
+Disallow: /allen-heath/*
+Disallow: /ea/*
+Disallow: /inew/*
+Disallow: /ewent/*
+Disallow: /ariete/*
+Disallow: /ghd/*
+Disallow: /moulinex/*
+Disallow: /alto-professional/*
+Disallow: /daewoo/*
+Disallow: /casals/*
+Disallow: /siemens/*
+Disallow: /evitta/*
+Disallow: /bresser/*
+Disallow: /meridiem-games/*
+Disallow: /daikin/*
+Disallow: /drift/*
+Disallow: /di4/*
+Disallow: /new-pol/*
+Disallow: /belson/*
+Disallow: /tt-esports/*
+Disallow: /badland-games/*
+Disallow: /severin/*
+Disallow: /proel/*
+Disallow: /fitbit/*
+Disallow: /technika/*
+Disallow: /telefunken/*
+Disallow: /ekwb/*
+Disallow: /bogo/*
+Disallow: /comfee/*
+Disallow: /jata/*
+Disallow: /discovery-adventures/*
+Disallow: /equip/*
+Disallow: /targus/*
+Disallow: /nilox/*
+Disallow: /rimax/*
+Disallow: /racer/*
+Disallow: /minibatt/*
+Disallow: /stream-system/*
+Disallow: /fritz/*
+Disallow: /vitrokitchen/*
+Disallow: /hercules/*
+Disallow: /jvc/*
+Disallow: /mushkin/*
+Disallow: /xplora/*
+Disallow: /ninebot/*
+Disallow: /candy/*
+Disallow: /adonit/*
+Disallow: /microtouch/*
+Disallow: /makeblock/*
+Disallow: /verbatim/*
+Disallow: /hoover/*
+Disallow: /ubisoft/*
+Disallow: /gioteck/*
+Disallow: /crucial/*
+Disallow: /asrock/*
+Disallow: /cata/*
+Disallow: /mcafee/*
+Disallow: /generica/*
+Disallow: /coquette/*
+Disallow: /polaroid/*
+Disallow: /toyota/*
+Disallow: /taurus/*
+Disallow: /otsein/*
+Disallow: /varta/*
+Disallow: /gear4/*
+Disallow: /littium/*
+Disallow: /oregon-scientific/*
+Disallow: /bosch/*
+Disallow: /belkin/*
+Disallow: /thor-glass/*
+Disallow: /rams-technology/*
+Disallow: /eizo/*
+Disallow: /caf-jurado/*
+Disallow: /sharp/*
+Disallow: /olympia/*
+Disallow: /balay/*
+Disallow: /silverstone/*
+Disallow: /nseatgaming/*
+Disallow: /vertagear/*
+Disallow: /blu-sens/*
+Disallow: /panzer-glass/*
+Disallow: /2k/*
+Disallow: /data-east/*
+Disallow: /armor/*
+Disallow: /v7/*
+Disallow: /recreus/*
+Disallow: /thermal-grizzly/*
+Disallow: /blu/*
+Disallow: /nest/*
+
+## SPECIFIC BOTS SETTINGS
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: Yahoo! Slurp China
+Disallow: /
+
+User-agent: YandexBot
+Disallow: / 
+
+User-agent: Yandex
+Disallow: / 
+
+User-agent: archive.org_bot
+Visit-time: 0200-0600
+
+User-agent: SEMrushBot
+Visit-time: 0100-0800
+
+User-agent: YandexImages
+Disallow: /
+
+User-agent: Baiduspider-image
+Disallow: /
+
+User-agent: noxtrumbot
+Crawl-delay: 50
+
+User-agent: msnbot
+Crawl-delay: 30
+
+User-agent: Slurp
+Crawl-delay: 10
+
+User-agent: AhrefsBot 
+Crawl-delay: 0100-0800
+
+User-agent: MSIECrawler
+Disallow: /
+
+User-agent: WebCopier
+Disallow: /
+
+User-agent: Python-urllib
+Disallow: /
+
+User-agent: URL_Spider_Pro
+Disallow: /
+
+User-agent: EmailCollector
+Disallow: /
+
+User-agent: EmailSiphon
+Disallow: /
+
+User-agent: WebBandit
+Disallow: /
+
+User-agent: EmailWolf
+Disallow: /
+
+User-agent: ExtractorPro
+Disallow: /
+
+User-agent: CopyRightCheck
+Disallow: /
+
+User-agent: Alexibot
+Disallow: /
+
+User-agent: Web Image Collector
+Disallow: /
+
+User-agent: Xenu's Link Sleuth 1.1c
+Disallow: /
+
+User-agent: Xenu's
+Disallow: /
+
+User-agent: Zeus
+Disallow: /
+
+User-agent: Zeus Link Scout
+Disallow: /
+
+User-agent: EroCrawler
+Disallow: /
+
+User-agent: LinkScan/8.1a Unix
+Disallow: /
+
+User-agent: Keyword Density/0.9
+Disallow: /
+
+User-agent: WebCopier v3.2a
+Disallow: /
+
+User-agent: WebCapture 2.0
+Disallow: /
+
+User-agent: WebCopier v.2.2
+Disallow: /
+
+User-agent: EtaoSpider
+Disallow: /
+
+User-agent: Black Hole
+Disallow: /
+
+User-agent: Xenu\\\'s Link Sleuth 1.1c
+Disallow: /
+
+User-agent: Xenu\\\'s
+Disallow: /
