@@ -10,5 +10,6 @@ Esta práctica se ha hecho de forma independiente por *David Poggio Moro*
 ## Estructura del repositorio
 Encontraremos las siguientes carpetas dentro de este repositorio según su contenido:
 * **src**: Ruta en la cual almacenaremos el código Python que utilizaremos.
-* **pdf**: Aquí almacenaremos los entregables en formato pdf
-* **csv**: En esta carpeta tendremos los entregables en formato csv
+* **pdf**: Aquí almacenaremos los entregables en formato pdf.
+* **csv**: En esta carpeta tendremos los entregables en formato csv.
+* **other**: Finalmente aquí incluiremos todos los documentos del análisis previo o que no encajen en ninguna de las categorías anteriores.
