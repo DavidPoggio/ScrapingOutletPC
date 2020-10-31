@@ -16,33 +16,35 @@ headers={
     "Accept": "/*/",
     }
 
-# URL contra la que realizaremos el scrapeo
-url = "https://www.pccomponentes.com/outlet"
-
-# Realizamos la request con la url y los headers definidos antes
-resp = requests.get(url, headers)
-
-# Parseamos la respuesta de la solicitud
-parseado = BeautifulSoup(resp.text, 'html.parser')
-
-# Buscamos todas las ocurrencias del tag article, forzando la existencia de data-name
-hits=parseado.find_all('article', {"data-name": True})
-
 # Creamos un array en el que iremos volcando los datos
 datos = []
 
-# Iteramos por todas las ocurrencias de las búsqueda anterior añadiendo valores al array
-for hit in hits:
-    nombre = hit['data-name']
-    precio_rebajado = float(hit['data-price'])
-    marca = hit['data-brand']
-    categoria = hit['data-category']
-    stock = hit['data-stock-web']
-    identificador = hit['data-sku']
-    precio_original = float(hit.find("div", class_="c-product-card__prices-pvp cy-product-price-normal").find("span").text.replace("€","").replace(",","."))
-    porcentaje_descuento = 100-(precio_rebajado*100/precio_original)
-    registro = [nombre, precio_rebajado, precio_original, porcentaje_descuento, marca, categoria, int(stock), identificador]
-    datos += [registro]
+# Iteramos por las primeras 20 páginas de productos
+for page in range(1, 20):
+    # URL contra la que realizaremos el scrapeo
+    url = "https://www.pccomponentes.com/outlet/ajax?page="+str(page)+"&order=relevance"
+
+    # Realizamos la request con la url y los headers definidos antes
+    resp = requests.get(url, headers)
+
+    # Parseamos la respuesta de la solicitud
+    parseado = BeautifulSoup(resp.text, 'html.parser')
+
+    # Buscamos todas las ocurrencias del tag article, forzando la existencia de data-name
+    hits=parseado.find_all('article', {"data-name": True})
+
+    # Iteramos por todas las ocurrencias de las búsqueda anterior añadiendo valores al array
+    for hit in hits:
+        nombre = hit['data-name']
+        precio_rebajado = float(hit['data-price'])
+        marca = hit['data-brand']
+        categoria = hit['data-category']
+        stock = hit['data-stock-web']
+        identificador = hit['data-sku']
+        precio_original = float(hit.find("div", class_="c-product-card__prices-pvp cy-product-price-normal").find("span").text.replace("€","").replace(",","."))
+        porcentaje_descuento = 100-(precio_rebajado*100/precio_original)
+        registro = [nombre, precio_rebajado, precio_original, porcentaje_descuento, marca, categoria, int(stock), identificador]
+        datos += [registro]
 
 # Creamos el dataframe en base a los datos
 set_datos = pd.DataFrame(datos, columns=['Nombre', 'Precio', 'Precio_Original', 'Descuento', 'Marca', 'Cateogoría', 'Stock', 'Identificador'])
