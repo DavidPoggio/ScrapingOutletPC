@@ -1,25 +1,457 @@
 ﻿,Nombre,Precio,Precio_Original,Descuento,Marca,Cateogoría,Stock,Identificador
-0,Gigabyte B450M DS3H,59.85,72.99,18.002466091245367,Gigabyte,Placas Base,1,168112
-1,Gigabyte B450M DS3H,62.04,72.99,15.002055076037806,Gigabyte,Placas Base,1,168112
-2,Gigabyte B450M DS3H,51.09,72.99,30.004110152075626,Gigabyte,Placas Base,1,168112
-3,Xiaomi Mi Smart Band 4 Negra Reacondicionado,27.3,39.98,31.715857928964482,Xiaomi,Pulseras de Actividad,1,213921
-4,Xiaomi Mi Smart Band 4 Negra,27.75,39.98,30.590295147573784,Xiaomi,Pulseras de Actividad,1,213921
-5,Zotac GAMING GeForce RTX2060 6GB GDDR6,301.5,359.9,16.226729647124202,Zotac,Tarjetas Gráficas,1,293921
-6,MSI B450 Gaming Plus MAX,78.75,97.99,19.634656597611993,MSI,Placas Base,1,232049
-7,Gigabyte GeForce GTX 1660 SUPER OC 6GB GDDR6 Reacondicionado,223.85,254.9,12.181247548058067,Gigabyte,Tarjetas Gráficas,1,245161
-8,Xiaomi Mi Airdots Auriculares Inalámbricos Negro Reacondicionado,15.4,19.25,20.0,Xiaomi,Auriculares,1,226265
-9,Nuwa Mando Bluetooth para PS4 Reacondicionado,20.45,39.94,48.798197295943915,Nuwa,Mandos PS4,1,252088
-10,Realme Buds Air Neo Auriculares Inalámbricos Blanco Reacondicionado,31.8,39.99,20.480120030007512,Realme,Auriculares,1,299064
-11,AMD Ryzen 3 3100 Wraith Stealth 3.9Ghz,108.15,109.9,1.5923566878980893,AMD,Procesadores,1,286124
-12,Microsoft Elite Serie 2 Mando Wireless Negro para Xbox One/PC,125.96,179.95,30.00277854959711,Microsoft,Gamepads,1,245572
-13,Microsoft Elite Serie 2 Mando Wireless Negro para Xbox One/PC,152.96,179.95,14.998610725201445,Microsoft,Gamepads,1,245572
-14,Microsoft Elite Serie 2 Mando Wireless Negro para Xbox One/PC,122.05,179.95,32.17560433453737,Microsoft,Gamepads,1,245572
-15,Nox LITE030 USB 3.0 + Fuente de Alimentación 500W Reacondicionado,22.1,31.99,30.915911222256952,NOX,Torres ATX,1,154633
-16,"AOC Gaming 24G2U 24"" LED IPS FullHD 144Hz FreeSync",176.15,189.99,7.284593925996106,AOC,Monitores,1,233627
-17,Cooler Master MasterLiquid ML240L RGB,56.85,59.98,5.2184061353784585,Cooler Master,Refrigeración Líquida,1,143244
-18,"Xiaomi Mi TV 4A 32"" LED HD Reacondicionado",168.7,179.0,5.754189944134083,Xiaomi,Televisores,3,247583
-19,Gigabyte GeForce RTX 2060 OC 6GB GDDR6,297.9,369.9,19.464720194647214,Gigabyte,Tarjetas Gráficas,1,181129
-20,Gigabyte GeForce RTX 2060 OC 6GB GDDR6 Reacondicionado,310.3,369.9,16.11246282779129,Gigabyte,Tarjetas Gráficas,1,181129
-21,Gigabyte GeForce RTX 2060 OC 6GB GDDR6,301.85,369.9,18.396864017301965,Gigabyte,Tarjetas Gráficas,1,181129
-22,MSI MAG Forge 100M Cristal Templado USB 3.2 RGB Reacondicionado,41.55,44.99,7.646143587463882,MSI,Torres ATX,1,259753
-23,HyperX Cloud Flight Auriculares Inálambricos Gaming Reacondicionado,94.35,159.99,41.02756422276393,HyperX,Auriculares,1,162782
+0,Gigabyte GeForce RTX 2070 Super Windforce OC 3X 8GB GDDR6 Reacondicionado,466.05,549.9,15.248226950354606,Gigabyte,Tarjetas Gráficas,1,231667
+1,"Acer Chromebook Spin 311 Mediatek MT8183/4GB/32GB eMMC/11.6"" Táctil Reacondicionado",272.41,299.0,8.892976588628756,Acer,Portátiles,1,284654
+2,EVGA GeForce RTX 2060 KO GAMING 6GB GDDR6 Reacondicionado,306.75,354.91,13.569637372855098,EVGA,Tarjetas Gráficas,1,281624
+3,MSI MPG B550 GAMING PLUS  Reacondicionado,135.05,149.89,9.900593768763741,MSI,Placas Base,1,302203
+4,Thermaltake H200 TG RGB Snow Cristal Templado USB 3.1 Blanco Reacondicionado,54.35,79.99,32.054006750843854,Thermaltake,Torres ATX,1,244523
+5,MSI B450 Tomahawk Max,91.8,114.9,20.10443864229765,MSI,Placas Base,1,231580
+6,MSI B450 Tomahawk Max Reacondicionado,101.6,114.9,11.575282854656223,MSI,Placas Base,1,231580
+7,"Gigabyte G32QC 31.5"" LED QuadHD 165Hz FreeSync/G-Sync Compatible Curvo Reacondicionado",329.7,429.01,23.14864455374,Gigabyte,Monitores,1,297312
+8,Gigabyte GeForce RTX 2060 OC 6GB GDDR6,310.3,339.9,8.70844365989997,Gigabyte,Tarjetas Gráficas,1,181129
+9,Gigabyte GeForce RTX 2060 OC 6GB GDDR6,301.85,339.9,11.194468961459236,Gigabyte,Tarjetas Gráficas,1,181129
+10,Gigabyte GeForce RTX 2060 OC 6GB GDDR6,297.9,339.9,12.356575463371584,Gigabyte,Tarjetas Gráficas,1,181129
+11,Gigabyte B450 Aorus Elite,79.04,92.99,15.0016130766749,Gigabyte,Placas Base,1,192817
+12,"AOC Q27G2U/BK 27"" LED QuadHD 144Hz FreeSync Reacondicionado",291.8,329.0,11.306990881458972,AOC,Monitores,1,251604
+13,"MSI GL75 Leopard 10SFK-060XES Intel Core i7-10750H/16GB/1TB SSD/RTX 2070/17.3""",1469.29,1698.99,13.51979705589791,MSI,Portátiles,1,264621
+14,Phanteks Eclipse P400A Cristal Templado USB 3.0 RGB Blanca,76.49,89.99,15.001666851872429,Phanteks,Torres ATX,1,254484
+15,Intel Core i5-9400 2.9 GHz Reacondicionado,143.35,154.9,7.456423499031644,Intel,Procesadores,1,182703
+16,Thermaltake H200 TG RGB Cristal Templado USB 3.1 Negra,56.45,79.99,29.428678584823103,Thermaltake,Torres ATX,1,244516
+17,MSI MPG Z490 GAMING PLUS,153.75,169.9,9.505591524426137,MSI,Placas Base,1,291743
+18,MSI MPG Z490 GAMING PLUS Reacondicionado,161.85,169.9,4.738081224249555,MSI,Placas Base,1,291743
+19,Tempest Spectra RGB USB 3.0 con Ventana Blanco Reacondicionado,24.35,36.99,34.17139767504732,Tempest,Torres ATX,1,222326
+20,"AOC G2590FX 24.5"" LED FullHD 144Hz FreeSync",169.15,199.0,15.0,AOC,Monitores,1,169907
+21,"AOC G2590FX 24.5"" LED FullHD 144Hz FreeSync",157.9,199.0,20.653266331658287,AOC,Monitores,1,169907
+22,HP PRO M15A Impresora Láser Monocromo,72.1,88.89,18.888513893576345,HP,Impresoras,1,160773
+23,Amazfit Bip Lite Reloj Smartwatch Negro Reacondicionado,41.2,59.99,31.32188698116353,Amazfit,Reloj SmartWatch,1,224030
+24,Amazfit GTS Reloj Smartwatch Obsidian Black Reacondicionado,92.75,129.0,28.100775193798455,Amazfit,Reloj SmartWatch,1,231532
+25,"Lenovo Tab M10 Plus 10.3"" FHD 4/64GB Wifi Gris",178.61,199.0,10.2462311557789,Lenovo,Tablets,1,264275
+26,MSI X470 Gaming Plus Max Reacondicionado,111.95,128.9,13.149728471683474,MSI,Placas Base,1,238976
+27,MSI X470 Gaming Plus Max,98.95,128.9,23.235065942591163,MSI,Placas Base,1,238976
+28,MSI X470 Gaming Plus Max,109.57,128.9,14.996121024049657,MSI,Placas Base,1,238976
+29,MSI X470 Gaming Plus Max,103.55,128.9,19.666408068269973,MSI,Placas Base,1,238976
+30,NOX Hummer Zero Core Black Edition + Fuente de Alimentación 450W Reacondicionado,66.7,89.99,25.880653405933984,NOX,Torres ATX,1,316319
+31,Corsair Carbide Spec-Delta RGB Cristal Templado USB 3.0 Reacondicionado,60.7,74.9,18.95861148197598,Corsair,Torres ATX,1,186046
+32,"Samsung UE32T5305 32"" LED FullHD Reacondicionado",226.7,255.0,11.09803921568627,Samsung,Televisores,1,279934
+33,"Samsung QE55Q60TAUXXH 55"" QLED UltraHD 4K Reacondicionado",640.65,715.0,10.3986013986014,Samsung,Televisores,1,299079
+34,HP Deskjet 3750 Multifunción Color Wifi,57.91,80.0,27.612499999999997,HP,Multifunciones,1,202887
+35,Realme C11 2/32GB Mint Green Libre Reacondicionado,95.83,99.0,3.2020202020202078,Realme,Smartphone/Móviles,1,314205
+36,AMD Ryzen 5 PRO 3400G BULK,104.8,135.9,22.884473877851363,AMD,Procesadores,1,281537
+37,AMD Ryzen 5 PRO 3400G BULK,99.05,135.9,27.115526122148637,AMD,Procesadores,1,281537
+38,MSI Mpg Z390 Gaming Plus,92.05,139.9,34.20300214438885,MSI,Placas Base,1,172630
+39,MSI Mpg Z390 Gaming Plus,81.35,139.9,41.85132237312367,MSI,Placas Base,1,172630
+40,MSI Mpg Z390 Gaming Plus,86.55,139.9,38.134381701215155,MSI,Placas Base,1,172630
+41,Logitech StreamCam Webcam USB-C Full HD Negra Reacondicionado,135.8,158.99,14.585823007736323,Logitech,Webcam,1,278320
+42,HP DeskJet 3762 Multifunción Color WiFi Verde,69.7,69.9,0.2861230329041575,HP,Multifunciones,1,229722
+43,Gigabyte GeForce GTX 1660 SUPER Gaming OC 6GB GDDR6 Reacondicionado,218.8,255.9,14.49785072293865,Gigabyte,Tarjetas Gráficas,1,245166
+44,"AOC Gaming 27G2U 27"" LED IPS FullHD 144Hz FreeSync",229.8,249.99,8.07632305292212,AOC,Monitores,1,233649
+45,Samsung Galaxy A71 6/128GB Prism Crush Black Reacondicionado,297.08,469.0,36.656716417910445,Samsung,Smartphone/Móviles,1,257852
+46,Samsung Galaxy A51 4/128GB Azul Libre Reacondicionado,268.08,368.99,27.34762459687255,Samsung,Smartphone/Móviles,1,255769
+47,Samsung Galaxy A51 4/128GB Azul Libre,289.33,368.99,21.588660939320846,Samsung,Smartphone/Móviles,1,255769
+48,Nox Hummer TGM ARGB Cristal Templado USB 3.0,51.95,64.99,20.06462532697337,NOX,Torres ATX,1,208558
+49,Nox Hummer TGM RGB Cristal Templado USB 3.0 Reacondicionado,50.25,64.99,22.68041237113401,NOX,Torres ATX,1,208558
+50,Huawei Watch GT2 46mm Clásico Marrón Reacondicionado,140.25,239.0,41.31799163179916,Huawei,Reloj SmartWatch,1,236660
+51,Gigabyte GeForce RTX 2060 Windforce OC 6GB GDDR6,314.41,349.9,10.142897970848793,Gigabyte,Tarjetas Gráficas,1,181123
+52,Nintendo Switch Gris V2 Reacondicionado,282.85,349.94,19.171858032805616,Nintendo,Videoconsolas Nintendo Switch,1,233481
+53,Huawei Watch Fit Active Smartwatch Graphite Black Reacondicionado,106.05,129.0,17.79069767441861,Huawei,Reloj SmartWatch,1,317934
+54,Xiaomi Mi Electric Scooter 1S Patinete Eléctrico Negro,382.49,449.99,15.000333340740909,Xiaomi,Patinetes,1,308151
+55,Realme 5i 4/64GB Forest Green Libre Reacondicionado,136.83,158.99,13.937983520976161,Realme,Smartphone/Móviles,1,279154
+56,Asus GeForce RTX 2060 Dual OC EVO Edition 6GB GDDR6,269.4,349.9,23.00657330665905,Asus,Tarjetas Gráficas,1,233569
+57,Thermaltake Toughram RGB DDR4 3200 2x8GB 16GB CL16 Reacondicionado,88.55,113.99,22.317747170804452,Thermaltake,Memorias RAM,1,229052
+58,MSI MPG Z490 GAMING EDGE WIFI,201.15,219.91,8.530762584693733,MSI,Placas Base,1,291739
+59,MSI MAG B460M MORTAR,86.75,109.9,21.064604185623296,MSI,Placas Base,1,300452
+60,MSI Z390-A PRO,72.6,124.9,41.87349879903924,MSI,Placas Base,1,172635
+61,MSI Z390-A PRO,94.85,124.9,24.05924739791834,MSI,Placas Base,1,172635
+62,MSI Z390-A PRO,82.2,124.9,34.18734987990392,MSI,Placas Base,1,172635
+63,MSI Z390-A PRO,77.25,124.9,38.150520416333066,MSI,Placas Base,1,172635
+64,MSI Z390-A PRO,87.43,124.9,30.0,MSI,Placas Base,1,172635
+65,MSI Z390-A PRO,100.35,124.9,19.65572457966374,MSI,Placas Base,1,172635
+66,MSI Z390-A PRO,75.5,124.9,39.551641313050446,MSI,Placas Base,1,172635
+67,HP Officejet Pro 8210 Color WiFi Dúplex Reacondicionado,48.6,96.99,49.89174141664089,HP,Impresoras,1,103062
+68,Nox Hummer Zero Black Edition Cristal Templado USB 3.0 Reacondicionado,40.2,51.0,21.17647058823529,NOX,Torres ATX,1,257559
+69,"Benq GL2780E 27"" LED FullHD Reacondicionado",124.65,169.0,26.242603550295854,Benq,Monitores,1,299928
+70,"Philips 50PUS7805 50"" LED UltraHD 4K Reacondicionado",382.9,459.0,16.57952069716775,Philips,Televisores,1,301093
+71,"Asus VP228HE 21.5"" LED FullHD Reacondicionado",64.65,95.99,32.64923429523907,Asus,Monitores,1,144270
+72,Motorola Moto G8 Power 4/64GB Azul Libre Reacondicionado,206.03,249.0,17.257028112449802,Motorola,Smartphone/Móviles,1,293303
+73,Gigabyte GeForce GTX 1650 OC 4GB GDDR5 Reacondicionado,134.0,149.89,10.601107478817795,Gigabyte,Tarjetas Gráficas,1,199277
+74,Asus TUF B450-PLUS GAMING Reacondicionado,75.75,99.95,24.212106053026517,Asus,Placas Base,1,168562
+75,Anet ET4 Impresora 3D con Pantalla Táctil DIY (Auto Montaje),174.99,249.99,30.00120004800192,Anet,Impresoras 3D,1,240692
+76,Anet ET4 Impresora 3D con Pantalla Táctil DIY (Auto Montaje) Reacondicionado,139.95,249.99,44.017760710428426,Anet,Impresoras 3D,1,240692
+77,Anet ET4 Impresora 3D con Pantalla Táctil DIY (Auto Montaje),212.49,249.99,15.00060002400096,Anet,Impresoras 3D,1,240692
+78,realme 6 Pro 6/128GB Lightning Red Libre Reacondicionado,252.38,299.0,15.591973244147155,Realme,Smartphone/Móviles,1,296791
+79,Samsung Galaxy A51 4/128GB Negro Libre Reacondicionado,268.08,368.99,27.34762459687255,Samsung,Smartphone/Móviles,1,255789
+80,MSI MAG X570 TOMAHAWK WIFI,173.55,214.9,19.24150767798976,MSI,Placas Base,1,298780
+81,MSI MAG X570 TOMAHAWK WIFI,189.5,214.9,11.819450907398789,MSI,Placas Base,1,298780
+82,Gigabyte H310M S2H 2.0,47.5,55.99,15.163422039649944,Gigabyte,Placas Base,1,186630
+83,Gigabyte H310M S2H 2.0,44.4,55.99,20.700125022325423,Gigabyte,Placas Base,1,186630
+84,Nintendo Switch Lite Coral,193.6,219.0,11.598173515981742,Nintendo,Videoconsolas Nintendo Switch,1,282076
+85,"Samsung QE43Q60TAU 43"" QLED UltraHD 4K Reacondicionado",671.5,699.99,4.070058143687774,Samsung,Televisores,1,279942
+86,"Samsung UE65TU7172 65"" LED UltraHD 4K",528.4,619.0,14.63651050080776,Samsung,Televisores,1,295176
+87,"AOC Gaming CQ32G1 31.5"" LCD QuadHD 144Hz FreeSync Curva Reacondicionado",292.45,369.99,20.957323170896515,AOC,Monitores,1,194016
+88,"Samsung S22F350FHU 22"" Full HD LED",65.45,84.0,22.08333333333333,Samsung,Monitores,1,115373
+89,MSI GeForce RTX 2060 Ventus XS OC 6GB GDDR6,271.85,334.9,18.826515377724675,MSI,Tarjetas Gráficas,1,186574
+90,MSI GeForce RTX 2060 Ventus XS OC 6GB GDDR6 Reacondicionado,269.1,334.9,19.6476560167214,MSI,Tarjetas Gráficas,1,186574
+91,Amazfit GTR Reloj Smartwatch 47.2mm Aluminum Alloy,101.0,149.0,32.214765100671144,Amazfit,Reloj SmartWatch,1,224476
+92,Amazfit GTR Reloj Smartwatch 47.2mm Aluminum Alloy,79.25,149.0,46.81208053691275,Amazfit,Reloj SmartWatch,1,224476
+93,Microsoft Kit Carga y Juega para Recarga Mando Inalámbrico Xbox One,19.45,27.99,30.51089674883886,Microsoft,Accesorios Xbox One,1,207325
+94,"Samsung Galaxy Tab A 10.1"" 2019 64GB Wifi Plata Reacondicionado",208.16,268.99,22.61422357708466,Samsung,Tablets,1,198191
+95,Xiaomi Redmi Note 9 4/128GB Verde Libre Reacondicionado,201.33,248.99,19.141330977147675,Xiaomi,Smartphone/Móviles,1,296183
+96,"LG 28TL510V-PZ 28"" LED HD Ready Reacondicionado",127.5,159.99,20.307519219951246,LG,Televisores,1,255025
+97,Samsung Galaxy A71 6/128GB Prism Crush Blue Reacondicionado,345.73,469.0,26.28358208955224,Samsung,Smartphone/Móviles,1,257853
+98,Samsung Galaxy A71 6/128GB Prism Crush Blue,267.78,469.0,42.904051172707895,Samsung,Smartphone/Móviles,1,257853
+99,"Samsung Galaxy Tab A 10.1"" 2019 32GB Wifi Plata Reacondicionado",160.26,219.0,26.821917808219183,Samsung,Tablets,1,198181
+100,Astro C40 TR Mando para PS4/PC,169.99,199.99,15.000750037501874,Astro,Gamepads,1,252425
+101,Nintendo Switch Joy-Con Set Izquierda/Derecha Verde Neón/Rosa Neón,57.9,79.98,27.606901725431356,Nintendo,Mandos Nintendo Switch,1,175504
+102,MSI B450M Mortar Max,76.7,95.99,20.095843317012182,MSI,Placas Base,1,232059
+103,Xiaomi Redmi Note 8 Pro 6/64GB Verde Libre Reacondicionado,209.63,248.99,15.807863769629307,Xiaomi,Smartphone/Móviles,1,247883
+104,Asus Prime X570-P,149.3,184.9,19.253650621957803,Asus,Placas Base,1,217717
+105,Huawei Watch Fit Active Smartwatch Sakura Pink Reacondicionado,106.05,129.0,17.79069767441861,Huawei,Reloj SmartWatch,1,317939
+106,MSI X570-A Pro,135.07,158.9,14.996853366897426,MSI,Placas Base,1,219284
+107,"Samsung Galaxy Tab A 10.1"" 2019 32GB Wifi Negra Reacondicionado",169.71,219.0,22.506849315068493,Samsung,Tablets,1,198151
+108,Samsung Galaxy A51 4/128GB Blanco Libre Reacondicionado,298.18,368.99,19.190221957234613,Samsung,Smartphone/Móviles,1,255765
+109,Gigabyte B365M H Reacondicionado,60.7,65.99,8.016366116078188,Gigabyte,Placas Base,1,235922
+110,Gigabyte B365M H,50.45,65.99,23.549022579178654,Gigabyte,Placas Base,1,235922
+111,Asus TUF GAMING B550-PLUS Reacondicionado,130.0,150.9,13.850231941683234,Asus,Placas Base,1,299960
+112,"MSI Creator 17M A10SD-419XESIntel Core i7-10750H/32GB/1TB SSD/GTX 1660Ti/17.3"" Reacondicionado",1685.09,1799.0,6.331851028349078,MSI,Portátiles,1,306931
+113,"LG 27GL850-B 27"" Nano IPS QuadHD 144Hz G-Sync Compatible",375.55,479.0,21.59707724425887,LG,Monitores,1,220924
+114,"Acer NITRO QG1 QG241Y 23.8"" LED FullHD FreeSync Reacondicionado",113.95,129.0,11.666666666666671,Acer,Monitores,1,281133
+115,Google Nest Mini Altavoz Inteligente y Asistente Carbón Reacondicionado,35.45,59.0,39.91525423728813,Google,Altavoces,1,243520
+116,"MSI Optix G271 27"" LED IPS FullHD 144Hz FreeSync Reacondicionado",226.2,299.0,24.347826086956516,MSI,Monitores,1,257415
+117,Asus ROG STRIX B450-F GAMING,104.35,129.91,19.67515972596412,Asus,Placas Base,1,168680
+118,Asus ROG STRIX B450-F GAMING Reacondicionado,90.95,129.91,29.98999307212685,Asus,Placas Base,1,168680
+119,Asus ROG STRIX B450-F GAMING,110.42,129.91,15.002694172888923,Asus,Placas Base,1,168680
+120,Garmin Forerunner 735XT Reloj Deportivo Negro/Gris Reacondicionado,161.4,249.99,35.437417496699865,Garmin,Reloj SmartWatch,1,152349
+121,Gigabyte X570 Gaming X,150.7,164.9,8.611279563371752,Gigabyte,Placas Base,1,219231
+122,Gigabyte X570 Gaming X,132.45,164.9,19.678593086719232,Gigabyte,Placas Base,1,219231
+123,Gigabyte X570 Gaming X,143.15,164.9,13.18981200727714,Gigabyte,Placas Base,1,219231
+124,MSI MAG Forge 100R Cristal Templado USB 3.2 ARGB Negra,43.7,54.98,20.516551473263007,MSI,Torres ATX,1,258123
+125,EZVIZ ez360 Cámara de Seguridad IP Wi-Fi Reacondicionado,32.7,34.99,6.544727064875673,EZVIZ,Seguridad y Vigilancia,1,166593
+126,Nox Hummer Nova Cristal Templado USB 3.0 ARGB Negro Reacondicionado,65.65,79.0,16.898734177215175,NOX,Torres ATX,1,260803
+127,"Asus ROG Strix G15 G512LW-HN038 Intel Core i7-10750H/16GB/512GB SSD/RTX 2070/15.6"" Reacondicionado",1479.74,1698.99,12.904725748827246,Asus,Portátiles,1,293618
+128,"Asus ROG Strix G15 G512LW-HN038 Intel Core i7-10750H/16GB/512GB SSD/RTX 2070/15.6""",1379.14,1698.99,18.825890676225285,Asus,Portátiles,1,293618
+129,Samsung Galaxy A21s 4/64Gb Azul Libre Reacondicionado,199.33,229.0,12.956331877729255,Samsung,Smartphone/Móviles,1,301614
+130,Samsung Galaxy A31 4/64GB Azul Libre Reacondicionado,235.83,299.0,21.12709030100335,Samsung,Smartphone/Móviles,1,304419
+131,Sapphire Pulse Radeon RX 550 4GB GDDR5,84.15,85.99,2.1397836957785756,Sapphire,Tarjetas Gráficas,1,124604
+132,Sapphire Pulse Radeon RX 550 4GB GDDR5,79.1,85.99,8.01255959995349,Sapphire,Tarjetas Gráficas,1,124604
+133,Gigabyte B550M Aorus Elite Reacondicionado,92.15,101.89,9.559328687800573,Gigabyte,Placas Base,1,300749
+134,Razer Raion Gamepad para PC/PS4 Reacondicionado,68.45,102.0,32.8921568627451,Razer,Gamepads,1,244413
+135,"Acer Chromebook 514 Intel Pentium N4200/4GB/128GB eMMC/14"" Táctil + Ratón/Funda Reacondicionado",441.11,499.0,11.601202404809612,Acer,Portátiles,1,284661
+136,NZXT H510 Cristal Templado USB 3.1 Negro Mate,67.98,79.98,15.003750937734438,NZXT,Torres ATX,1,229646
+137,Corsair iCUE 220T RGB Airflow Cristal Templado USB 3.0 Negra Reacondicionado,82.35,99.98,17.63352670534107,Corsair,Torres ATX,1,222587
+138,Xiaomi Redmi Note 8 Pro 6/128Gb Azul Libre Reacondicionado,212.93,268.99,20.84092345440351,Xiaomi,Smartphone/Móviles,1,257215
+139,MSI DS501 Auriculares Gaming Negro/Rojo Reacondicionado,26.0,39.99,34.98374593648413,MSI,Auriculares,1,300826
+140,"Acer KG241QS 23.6"" LED FullHD 165Hz FreeSync Reacondicionado",156.75,168.99,7.243032132078824,Acer,Monitores,1,269090
+141,Xiaomi Mi Electric Scooter Essential Patinete Eléctrico Negro,262.65,309.0,15.000000000000014,Xiaomi,Patinetes,1,308154
+142,Gigabyte B450 AORUS Pro,88.6,110.9,20.10820559062219,Gigabyte,Placas Base,1,169531
+143,PowerColor AMD Radeon RX 5500 XT OC 8GB GDDR6,187.15,219.91,14.897003319539806,PowerColor,Tarjetas Gráficas,1,287780
+144,PowerColor AMD Radeon RX 5500 XT OC 8GB GDDR6,187.15,219.91,14.897003319539806,PowerColor,Tarjetas Gráficas,1,287780
+145,PowerColor AMD Radeon RX 5500 XT OC 8GB GDDR6,177.8,219.91,19.14874266745487,PowerColor,Tarjetas Gráficas,1,287780
+146,MSI MAG Z490 TOMAHAWK,171.4,189.9,9.741969457609272,MSI,Placas Base,1,291741
+147,MSI MAG Z490 TOMAHAWK,180.4,189.9,5.0026329647182735,MSI,Placas Base,1,291741
+148,Edimax EW-7438RPn Mini Repetidor Extensor de cobertura Wifi,14.15,20.9,32.29665071770334,Edimax,Puntos de Acceso,1,72381
+149,Samsung Galaxy A31 4/64GB Negro Libre Reacondicionado,219.73,299.0,26.511705685618736,Samsung,Smartphone/Móviles,1,304416
+150,Corsair SF750 750W SFX 80 Plus Platinum Full Modular Reacondicionado,142.8,163.0,12.3926380368098,Corsair,Fuentes Alimentación,1,193145
+151,Corsair HS70 Pro Wireless Auriculares Gaming Inalámbricos 7.1 Gris Carbón Reacondicionado,78.1,109.99,28.993544867715258,Corsair,Auriculares,1,242895
+152,HP Pavilion 500 Teclado Mecánico Gaming Switch Red Reacondicionado,31.5,47.0,32.97872340425532,HP,Teclados,1,171081
+153,Aerocool RIFT RGB USB 3.0 con Ventana Reacondicionado,30.15,39.98,24.58729364682341,Aerocool,Torres ATX,1,178520
+154,"Gigabyte G27FC 27"" LED FullHD 165Hz G-Sync Compatible Curva Reacondicionado",239.4,279.0,14.193548387096769,Gigabyte,Monitores,1,301966
+155,Xiaomi Redmi Note 9 Pro 6/64GB Gris Interestelar Libre Reacondicionado,250.13,268.99,7.011413063682667,Xiaomi,Smartphone/Móviles,1,300477
+156,"Asus TUF Gaming FX505DT-BQ051 AMD Ryzen 5 3550H/8GB/512 SSD/GTX1650/15.6""",636.84,798.99,20.294371644200808,Asus,Portátiles,1,284300
+157,"Asus Rog Strix G15 G512LV-HN221 Intel Core i7-10870H/16GB/1TB SSD/RTX2060/15.6"" Reacondicionado",1365.84,1498.99,8.88264764941728,Asus,Portátiles,1,323361
+158,Xiaomi Pocophone F2 Pro 8/256GB 5G Azul Libre Reacondicionado,507.58,599.0,15.262103505843072,Xiaomi,Smartphone/Móviles,1,298192
+159,Xiaomi Redmi Note 9 3/64GB Verde Libre Reacondicionado,183.63,214.33,14.32370643400364,Xiaomi,Smartphone/Móviles,1,296182
+160,Nfortec Eris Cristal Templado USB 3.0 RGB Negra Reacondicionado,45.45,54.95,17.288444040036396,Nfortec,Torres ATX,1,308253
+161,"Engel LE3260T2 32"" LED HD Ready Reacondicionado",104.55,109.99,4.945904173106641,Engel,Televisores,1,219429
+162,Samsung Galaxy A30s 4/64GB Verde Libre,167.63,278.99,39.91540915444998,Samsung,Smartphone/Móviles,1,233523
+163,Samsung Galaxy A30s 4/64GB Verde Libre,226.73,278.99,18.73185418832216,Samsung,Smartphone/Móviles,1,233523
+164,Samsung Galaxy A30s Verde Libre Reacondicionado,176.38,278.99,36.77909602494713,Samsung,Smartphone/Móviles,1,233523
+165,Xiaomi Pocophone F2 Pro 8/256GB 5G Gris Libre Reacondicionado,514.98,599.0,14.026711185308855,Xiaomi,Smartphone/Móviles,1,298175
+166,"LG 32GK850G-B 31.5"" Wide QuadHD 144Hz Reacondicionado",319.9,649.0,50.70878274268105,LG,Monitores,1,149136
+167,"Samsung UE43TU7105 43"" LED UltraHD 4K Reacondicionado",318.5,358.99,11.27886570656564,Samsung,Televisores,1,279986
+168,Xiaomi Redmi Note 9S 6/128GB Dual SIM Gris Libre Reacondicionado,217.68,268.99,19.07505855236255,Xiaomi,Smartphone/Móviles,1,285252
+169,Aerocool Aero One Eclipse Cristal Templado USB 3.1 RGB Blanca Reacondicionado,69.65,79.99,12.926615826978349,Aerocool,Torres ATX,1,252702
+170,LG RL3 Torre de Sonido 130W Reacondicionado,102.6,169.0,39.289940828402365,LG,Altavoces,1,304186
+171,"MSI GE66 Raider 10SFS-054ES Intel Core i9-10980HK/32GB/1TB SSD/RTX 2070 SUPER/15.6"" Reacondicionado",2341.54,2699.0,13.244164505372353,MSI,Portátiles,1,283724
+172,Aerocool Eclipse ARGB Ventilador 120mm Reacondicionado,7.55,7.99,5.5068836045056315,Aerocool,Ventiladores Suplementarios,1,229998
+173,Cecotec Turbo Cecofry 4D Freidora sin Aceite,89.2,99.9,10.710710710710714,Cecotec,Freidoras,1,131484
+174,MSI MPG X570 Gaming Plus,129.43,184.9,30.0,MSI,Placas Base,1,219114
+175,MSI MPG X570 Gaming Plus,157.17,184.9,14.997295835586812,MSI,Placas Base,1,219114
+176,MSI MPG X570 Gaming Plus,116.25,184.9,37.12817739318551,MSI,Placas Base,1,219114
+177,MSI MPG X570 Gaming Plus,123.0,184.9,33.477555435370476,MSI,Placas Base,1,219114
+178,MSI MPG X570 Gaming Plus,149.3,184.9,19.253650621957803,MSI,Placas Base,1,219114
+179,MSI MPG X570 Gaming Plus,131.0,184.9,29.150892374256358,MSI,Placas Base,1,219114
+180,Xiaomi Mi Note 10 Lite 6/64GB Glacier White Libre,301.88,369.0,18.189701897018963,Xiaomi,Smartphone/Móviles,1,300200
+181,Xiaomi Mi Note 10 Lite 6/64GB Glacier White Libre,272.58,369.0,26.130081300813004,Xiaomi,Smartphone/Móviles,1,300200
+182,"Samsung LC27JG56QQUXEN 26.9"" WQHD 144Hz FreeSync Curva",276.24,324.99,15.000461552663168,Samsung,Monitores,1,212084
+183,Apple iPhone 11 128GB Negro Libre Reacondicionado,684.93,858.99,20.2633325184228,Apple,Smartphone/Móviles,1,233093
+184,Xiaomi Redmi Note 9S 6/128GB Dual SIM Blanco Glaciar Libre Reacondicionado,236.38,268.99,12.123127253801258,Xiaomi,Smartphone/Móviles,1,285249
+185,Asus Prime H310M-K R2.0 Reacondicionado,48.15,55.99,14.002500446508307,Asus,Placas Base,1,204591
+186,Xiaomi Redmi Note 9 4/128GB Blanco Libre Reacondicionado,201.33,248.99,19.141330977147675,Xiaomi,Smartphone/Móviles,1,296189
+187,"MSI Prestige 15 A10SC-044XES Intel Core i7-10710U/16GB/512GB SSD/GTX 1650/15.6""",1185.29,1498.99,20.92742446580698,MSI,Portátiles,1,234198
+188,Gigabyte Z390 UD Reacondicionado,69.3,112.91,38.62368257904526,Gigabyte,Placas Base,1,173052
+189,Gigabyte Z390 UD,79.04,112.91,29.997343016561857,Gigabyte,Placas Base,1,173052
+190,"Asus VivoBook 14 S433FL-EB180T Intel Core i7-10510U/16GB/512GB SSD/MX 250/14"" Reacondicionado",950.69,1199.0,20.709758131776482,Asus,Portátiles,1,293646
+191,HP LaserJet Pro M118dw Impresora Láser Monocromo Wifi Blanca,93.53,130.9,28.548510313216198,HP,Impresoras,1,208176
+192,Asus TUF Gaming Combo Teclado TUF Gaming K5 RGB + Ratón TUF Gaming M5,59.7,115.0,48.08695652173913,Asus,Teclados,1,304506
+193,Asus TUF Gaming Combo Teclado TUF Gaming K5 RGB + Ratón TUF Gaming M5 Reacondicionado,63.5,115.0,44.78260869565217,Asus,Teclados,1,304506
+194,Xiaomi Mi Note 10 Lite 6/64GB  Midnight Black Libre Reacondicionado,354.98,369.0,3.7994579945799387,Xiaomi,Smartphone/Móviles,1,300202
+195,Corsair Harpoon RGB Pro Ratón Gaming 12000DPI Reacondicionado,24.7,29.98,17.611741160773846,Corsair,Ratones,1,208443
+196,LG SJ3 Barra de Sonido 2.1 Inalámbrica con Subwoofer 300W,121.25,169.0,28.254437869822482,LG,Altavoces TV/Barras Sonido,1,130489
+197,"HP ChromeBook x360 Intel Celeron N4000/4GB/64GB SSD/12"" Táctil Reacondicionado",367.54,398.99,7.882403067746054,HP,Portátiles,1,294783
+198,"MSI Optix AG32CQ 31.5"" WQHD 144Hz FreeSync Curvo Reacondicionado",311.3,379.0,17.86279683377309,MSI,Monitores,1,160665
+199,"Dell P2719H 27"" LED IPS FullHD Reacondicionado",167.55,225.0,25.53333333333333,Dell,Monitores,1,170383
+200,Intel Core i3-10100F 3.60 GHz Reacondicionado,80.2,82.99,3.3618508254006514,Intel,Procesadores,1,320863
+201,MSI B450-A Pro Max,64.39,91.98,29.995651228527947,MSI,Placas Base,1,231278
+202,MSI B450-A Pro Max,70.3,91.98,23.570341378560556,MSI,Placas Base,1,231278
+203,MSI B450-A Pro Max,73.5,91.98,20.09132420091325,MSI,Placas Base,1,231278
+204,Samsung Galaxy A21s 4/64Gb Negro Libre,167.28,229.0,26.95196506550218,Samsung,Smartphone/Móviles,1,301611
+205,Batería Compatible Toshiba PA3634U/PA3635U/PA3638U Reacondicionado,4.65,23.0,79.78260869565217,Toshiba,Repuestos Portátiles,1,69349
+206,Samsung Galaxy A30s 4/128GB Blanco Libre Reacondicionado,196.33,249.0,21.152610441767067,Samsung,Smartphone/Móviles,1,295455
+207,Samsung Galaxy A30s 4/128GB Blanco Libre,182.78,249.0,26.59437751004016,Samsung,Smartphone/Móviles,1,295455
+208,Crucial MX500 SSD 500GB SATA Reacondicionado,74.79,82.99,9.880708519098675,Crucial,Discos Duros,1,147002
+209,HP LaserJet Pro M28a MFP Multifunción Láser,98.75,121.98,19.04410559108051,HP,Multifunciones,1,162787
+210,MSI Mag Z390 Tomahawk,124.45,154.9,19.65784377017431,MSI,Placas Base,1,172622
+211,MSI Mag Z390 Tomahawk Reacondicionado,100.75,154.9,34.95803744351194,MSI,Placas Base,1,172622
+212,MSI Mag Z390 Tomahawk,131.67,154.9,14.996772111039391,MSI,Placas Base,1,172622
+213,Corsair Carbide 275R USB 3.0 Cristal Templado Blanca Reacondicionado,65.4,89.99,27.325258362040216,Corsair,Torres ATX,3,168194
+214,"LG 49NANO816NA 49"" LED IPS Nanocell UltraHD 4K Reacondicionado",601.55,699.0,13.94134477825466,LG,Televisores,1,299192
+215,Alcatel 1B 2/16GB Verde Libre,55.58,79.0,29.64556962025317,Alcatel,Smartphone/Móviles,1,280079
+216,"Lenovo C24-25 23.8"" WLED FullHD FreeSync",113.45,119.0,4.663865546218489,Lenovo,Monitores,1,317622
+217,"Lenovo C24-25 23.8"" WLED FullHD FreeSync Reacondicionado",108.35,119.0,8.949579831932766,Lenovo,Monitores,1,317622
+218,PowerColor Red Dragon Radeon RX 580 8 GB GDDR5,161.4,199.9,19.259629814907456,PowerColor,Tarjetas Gráficas,1,317035
+219,Google Nest Hub Carbón Altavoz Inteligente y Asistente con Pantalla Carbón Reacondicionado,83.15,89.99,7.600844538282033,Google,Altavoces,1,208430
+220,"Primux ioxbook Tour 1302F Intel Celeron N3350/4GB/64GB eMMC/13.3"" Táctil Reacondicionado",267.54,288.99,7.422402159244257,Primux,Portátiles,1,281061
+221,Gigabyte B460M DS3H Reacondicionado,75.55,77.98,3.116183636829959,Gigabyte,Placas Base,1,296039
+222,Amazfit GTR Reloj Smartwatch 42mm Starry Black Reacondicionado,75.0,136.5,45.05494505494506,Amazfit,Reloj SmartWatch,1,231492
+223,"Huawei MateBook AMD Ryzen 5 3500U/8GB/512GB SSD/13"" Reacondicionado",747.89,848.99,11.90826747075937,Huawei,Portátiles,1,291721
+224,"Asus VivoBook S14 S433FA-EB491Intel Core i7-10510U/16GB/512GB SSD+32GB Intel Optane/14"" Reacondicionado",791.89,899.98,12.010266894819893,Asus,Portátiles,1,289406
+225,"Asus VivoBook S14 S433FA-EB491Intel Core i7-10510U/16GB/512GB SSD+32GB Intel Optane/14""",737.99,899.98,17.999288873086073,Asus,Portátiles,1,289406
+226,"Silver 410004 32""LED HD Reacondicionado",101.35,129.0,21.434108527131784,Silver,Televisores,1,213341
+227,"LG 32GK650F-B 31.5"" LED WQXGA 144Hz FreeSync Reacondicionado",275.25,419.0,34.30787589498807,LG,Monitores,1,177391
+228,"LG OLED55CX6LA 55"" OLED UltraHD 4K Reacondicionado",1420.85,1999.0,28.92196098049024,LG,Televisores,1,304086
+229,MSI Radeon RX 5500 XT MECH OC 8GB GDDR6 Reacondicionado,207.55,214.9,3.420195439739416,MSI,Tarjetas Gráficas,1,261588
+230,Intel Core i9-9900KF 3.6 GHz  Reacondicionado,357.6,369.9,3.325223033252229,Intel,Procesadores,1,233768
+231,Asus PRIME B550M-A,84.99,99.99,15.00150015001499,Asus,Placas Base,1,299970
+232,NZXT H510i Cristal Templado USB 3.1 RGB Negro Mate Reacondicionado,90.2,109.99,17.992544776797885,NZXT,Torres ATX,1,229763
+233,MSI MAG Infinite S 10SI-020XIB Intel Core i5-10400F/16GB/1TB+512GB SSD/GTX 1660 SUPER Reacondicionado,847.09,899.0,5.774193548387103,MSI,Sobremesa,1,296196
+234,Conceptronic Alvah Auriculares Bluetooth Negros Reacondicionado,44.6,58.0,23.103448275862064,Conceptronic,Auriculares,1,309890
+235,Amazfit GTS Reloj Smartwatch Vermillion Orange Reacondicionado,84.05,129.99,35.34118009077622,Amazfit,Reloj SmartWatch,1,244843
+236,"HP OMEN 17-CB1003NS Intel Core i7-10750H/16GB/1TB SSD/RTX 2060/17.3"" Reacondicionado",1316.34,1498.99,12.184871146572021,HP,Portátiles,1,296854
+237,NGS UPS Fortress 900 V2 SAI 600VA Reacondicionado,32.7,36.99,11.597729115977288,NGS,Sais,1,140036
+238,"Samsung Galaxy Tab A 10.1"" 2019 64GB 4G Plata Reacondicionado",237.11,321.81,26.3198781889935,Samsung,Tablets,1,198208
+239,MSI B450 GAMING PRO CARBON MAX WIFI Reacondicionado,134.0,149.89,10.601107478817795,MSI,Placas Base,1,304537
+240,Xiaomi Mi True Wireless Earphones Lite Auriculares Inalámbricos Blanco Reacondicionado,32.25,36.99,12.814274128142742,Xiaomi,Auriculares,1,291905
+241,"Viewsonic VX Series VX2458-MHD 23.6"" LED FullHD 144Hz FreeSync",157.25,185.0,15.0,Viewsonic,Monitores,1,191174
+242,"Asus Chromebook Z1400CN-BV0305 Intel Pentium N4200/8GB/64GB eMMC/14"" Reacondicionado",339.69,398.99,14.862527882904331,Asus,Portátiles,1,291055
+243,NZXT H510i Cristal Templado USB 3.1 RGB Blanco Mate Reacondicionado,91.0,109.99,17.26520592781162,NZXT,Torres ATX,1,229796
+244,Realme X50 5G 6/128GB Ice Silver Libre,302.03,349.0,13.458452722063043,Realme,Smartphone/Móviles,1,308240
+245,Realme X50 5G 6/128GB Ice Silver Libre Reacondicionado,317.83,349.0,8.931232091690546,Realme,Smartphone/Móviles,1,308240
+246,"Gigabyte G27QC 27"" LED QuadHD 165Hz Curva Reacondicionado",311.1,389.0,20.02570694087403,Gigabyte,Monitores,1,308736
+247,Brother MFC-L2710DW Multifunción Láser Monocromo WiFi,124.45,170.95,27.200935946183094,Brother,Multifunciones,1,148437
+248,MSI Cubi 5 10M-008BEU Intel Core i5-10210U,335.4,399.0,15.939849624060145,MSI,Barebones,1,249006
+249,Samsung Galaxy S20 Ultra 12/128GB 5G Cosmic Black Libre Reacondicionado,1093.68,1359.0,19.52317880794702,Samsung,Smartphone/Móviles,1,262033
+250,Cubot P40 4/128GB Negro Libre Reacondicionado,121.63,149.0,18.36912751677852,Cubot,Smartphone/Móviles,1,305526
+251,Okdo Starter Kit Raspberry Pi 4 Modelo B 8GB + Accesorios Reacondicionado,106.54,139.0,23.352517985611513,Raspberry,Robótica,1,304439
+252,"Asus VivoBook X512JA-BR700 Intel Core i5-1035G1/16GB/1TB/15.6"" Reacondicionado",650.99,699.0,6.86838340486409,Asus,Portátiles,1,306002
+253,Thermaltake S100 Cristal Templado USB 3.0 Negra Reacondicionado,40.15,54.99,26.98672485906529,Thermaltake,Torres ATX,1,290948
+254,Gigabyte GeForce RTX 2070 Super Gaming OC 3X 8GB GDDR6,458.92,539.9,14.999073902574551,Gigabyte,Tarjetas Gráficas,1,231646
+255,Realme 6 4/64GB Comet White Libre Reacondicionado,162.28,219.0,25.899543378995432,Realme,Smartphone/Móviles,1,279140
+256,Cecotec Bongo Serie S Unlimited Patinete Eléctrico,384.3,549.0,30.0,Cecotec,Patinetes,1,310981
+257,Cecotec Bongo Serie S Unlimited Patinete Eléctrico,476.1,549.0,13.278688524590166,Cecotec,Patinetes,1,310981
+258,Asus PRIME B550M-A WI-FI,97.5,119.9,18.682235195996668,Asus,Placas Base,1,299968
+259,Xiaomi Mi Note 10 Lite 6/64GB Nebula Purple Libre Reacondicionado,295.88,369.0,19.81571815718158,Xiaomi,Smartphone/Móviles,1,300197
+260,Aerocool Shard RGB USB 3.0 con Ventana Reacondicionado,33.1,36.99,10.516355771830234,Aerocool,Torres ATX,1,193814
+261,Phanteks Eclipse P600S Cristal Templado USB 3.1 Satin Black,127.48,149.98,15.002000266702225,Phanteks,Torres ATX,1,185547
+262,MSI B450M PRO-M2 MAX Reacondicionado,51.5,69.99,26.418059722817546,MSI,Placas Base,1,243057
+263,MSI MAG B550 TOMAHAWK ,149.65,169.9,11.91877575044144,MSI,Placas Base,1,302202
+264,MSI MAG B550 TOMAHAWK ,149.65,169.9,11.91877575044144,MSI,Placas Base,1,302202
+265,MSI MAG B550 TOMAHAWK ,136.5,169.9,19.658622719246623,MSI,Placas Base,1,302202
+266,Xiaomi Redmi Note 9S 4/64GB Dual SIM Gris Libre Reacondicionado,201.68,229.0,11.930131004366814,Xiaomi,Smartphone/Móviles,1,283758
+267,"LG 28TL510V-WZ 27.5"" LED TV/Monitor HD Ready Reacondicionado",121.0,179.99,32.77404300238902,LG,Televisores,1,296088
+268,"Samsung UE55TU7105 55"" LED UltraHD 4K",403.35,489.0,17.515337423312886,Samsung,Televisores,1,279992
+269,Super Mario Party Nintendo Switch Reacondicionado,40.1,54.98,27.0643870498363,Nintendo,Juegos Nintendo Switch,1,170886
+270,Thermaltake Level 20 MT ARGB Cristal Templado USB 3.0 Negra,65.15,99.0,34.19191919191918,Thermaltake,Torres ATX,1,180878
+271,Amazfit GTS Reloj Smartwatch Steel Blue Reacondicionado,88.15,122.9,28.275020341741254,Amazfit,Reloj SmartWatch,1,244851
+272,"Huawei MatePad 10.4"" 4/64GB Wifi",235.96,319.0,26.03134796238244,Huawei,Tablets,1,308249
+273,Bose Sound SportFree Auriculares Bluetooth Naranja Reacondicionado,105.05,199.0,47.21105527638191,Bose,Auriculares,1,188306
+274,Apple Watch SE GPS 40mm Aluminio en Oro con Correa Deportiva Rosa Arena,284.0,299.0,5.016722408026752,Apple,Reloj SmartWatch,1,321421
+275,Corsair iCUE 220T RGB Cristal Templado USB 3.1 Blanca Reacondicionado,90.45,118.99,23.985208841079086,Corsair,Torres ATX,1,256068
+276,"Huawei MatePad 10.4"" 3/32GB Wifi Reacondicionado",243.26,279.0,12.810035842293914,Huawei,Tablets,1,308247
+277,"MSI Modern 14 B10MW-050XES Intel Core i7-10510U/16GB/1TB SSD/14"" Reacondicionado",995.34,1048.99,5.114443417001112,MSI,Portátiles,1,301230
+278,"Samsung UE43RU7475 43"" LED UltraHD 4K",373.8,399.99,6.547663691592291,Samsung,Televisores,1,257407
+279,Xiaomi Mi 10 Lite 5G 6/64GB Gris Libre Reacondicionado,258.08,349.0,26.051575931232094,Xiaomi,Smartphone/Móviles,1,300207
+280,Gigabyte B450 Gaming X Reacondicionado,65.1,84.99,23.402753265090013,Gigabyte,Placas Base,1,243065
+281,Gigabyte B450 Gaming X,67.9,84.99,20.10824802917989,Gigabyte,Placas Base,1,243065
+282,AMD Ryzen 9 3950X 4.70 GHz Reacondicionado,677.65,769.9,11.98207559423301,AMD,Procesadores,1,247041
+283,"BenQ EW3270UE 31.5"" LED UltraHD 4K FreeSync Reacondicionado",267.2,444.99,39.95370682487247,Benq,Monitores,1,242988
+284,"LG 28TL510S-PZ 28"" LED HD Reacondicionado",156.6,169.0,7.337278106508876,LG,Televisores,1,255663
+285,"Asus VG279Q 27"" LCD FullHD 144Hz FreeSync Reacondicionado",227.75,298.99,23.82688384226897,Asus,Monitores,1,182125
+286,Thermaltake S100 Cristal Templado USB 3.0 Snow Edition Reacondicionado,46.4,54.99,15.621022004000736,Thermaltake,Torres ATX,1,290949
+287,"MSI Modern 14 B10RBSW-025E Intel Core i7-10510U/16GB/1TB SSD/MX 350/14"" Reacondicionado",1305.49,1399.0,6.684060042887779,MSI,Portátiles,1,301229
+288,"Asus Rog Zephyrus G15 GA502DU-AL092 AMD Ryzen 7 3750H/16GB/1TB SSD/GTX1660Ti/15.6""",1164.64,1399.0,16.7519656897784,Asus,Portátiles,1,289402
+289,"Asus Rog Zephyrus G15 GA502DU-AL092 AMD Ryzen 7 3750H/16GB/1TB SSD/GTX1660Ti/15.6""",1090.94,1399.0,22.020014295925662,Asus,Portátiles,1,289402
+290,"Asus Rog Zephyrus G15 GA502DU-AL092 AMD Ryzen 7 3750H/16GB/1TB SSD/GTX1660Ti/15.6"" Reacondicionado",1218.54,1399.0,12.89921372408864,Asus,Portátiles,1,289402
+291,Cecotec Conga 1090 Connected Force Robot Aspirador,167.0,239.0,30.125523012552307,Cecotec,Robot Aspiradoras,1,293243
+292,Cecotec Conga 1090 Connected Force Robot Aspirador,194.0,239.0,18.828451882845187,Cecotec,Robot Aspiradoras,1,293243
+293,"Hisense 55B7100 55"" LED UltraHD 4K Reacondicionado",309.35,349.99,11.611760336009596,Hisense,Televisores,1,243447
+294,Samsung Galaxy A41 4/64GB Negro Libre Reacondicionado,227.63,299.0,23.869565217391298,Samsung,Smartphone/Móviles,1,294162
+295,Xiaomi Redmi 9C 3/64Gb Azul Libre Reacondicionado,131.48,139.0,5.410071942446052,Xiaomi,Smartphone/Móviles,1,314415
+296,MSI Mpg Z390 Gaming Edge AC,128.4,174.91,26.590818135040877,MSI,Placas Base,1,172621
+297,MSI Mpg Z390 Gaming Edge AC,122.44,174.91,29.998284832199417,MSI,Placas Base,1,172621
+298,Xiaomi Pack Redmi Note 9 3/64GB Gris Libre + Mi Ear Auriculares,163.53,199.0,17.824120603015075,Xiaomi,Smartphone/Móviles,1,296830
+299,"Philips 65PUS8535 65"" LED UltraHD 4K Reacondicionado",796.7,859.0,7.252619324796271,LG,Televisores,1,301113
+300,Garmin Fénix 6X Pro 51mm Negro con Correa Negra,532.75,699.0,23.783977110157366,Garmin,Reloj SmartWatch,1,232624
+301,Lenovo IdeaCentre 510S-07ICB Intel Core i5-8400/8GB/256GB SSD Reacondicionado,452.04,499.0,9.410821643286567,Lenovo,Sobremesa,1,219338
+302,HP Color LaserJet Pro M255dw Impresora Láser WiFi Color,218.8,262.21,16.555432668471823,HP,Impresoras,1,257916
+303,"Acer ED320QRPbiipx 31.5"" LED FullHD 165Hz FreeSync Curvo Reacondicionado",228.95,279.0,17.939068100358426,Acer,Monitores,1,261834
+304,Nacon Revolution Pro Controller 3 para PS4 Negro Reacondicionado,71.9,99.95,28.064032016008,Nacon,Gamepads,1,254033
+305,Gigabyte B550M Aorus Pro Reacondicionado,108.6,112.91,3.8171995394561975,Gigabyte,Placas Base,1,300748
+306,Amazfit GTR Smartwatch 42mm Moonlight White,99.25,135.0,26.48148148148148,Amazfit,Reloj SmartWatch,1,256880
+307,Apple Watch Series 6 GPS 40mm Aluminio en Oro con Correa Deportiva Rosa Arena Reacondicionado,403.4,428.0,5.747663551401871,Apple,Reloj SmartWatch,1,321481
+308,"Lenovo Legion 5 15IMH05H Intel Core i7-10750H/16GB/512GB SSD/RTX2060/15.6"" Reacondicionado",1461.34,1599.0,8.609130706691687,Lenovo,Portátiles,1,313061
+309,"Viewsonic ELITE XG2405 23.8"" LED IPS FullHD 144Hz FreeSync",143.75,199.0,27.763819095477388,Viewsonic,Monitores,1,250183
+310,"Viewsonic ELITE XG2405 23.8"" LED IPS FullHD 144Hz FreeSync Reacondicionado",151.3,199.0,23.96984924623115,Viewsonic,Monitores,1,250183
+311,"AOC CU34G2X/BK 34"" LED Wide QuadHD 144Hz FreeSync Curvo",419.7,579.0,27.512953367875653,AOC,Monitores,1,251622
+312,Corsair iCUE 220T RGB Cristal Templado USB 3.1 Negra,75.6,114.89,34.19792845330316,Corsair,Torres ATX,1,256072
+313,MSI Trident A Plus 9SD-814EU Intel Core i7-9700F/16GB/2TB+512GB SSD/RTX 2070 SUPER Reacondicionado,1724.39,1898.99,9.19436121306589,MSI,Sobremesa,1,311418
+314,MSI MPG Z490 GAMING CARBON WIFI Reacondicionado,216.55,254.9,15.045115731659479,MSI,Placas Base,1,291736
+315,"Asus TUF Gaming VG27AQ 27"" LED IPS Wide QuadHD HDR 165Hz G-Sync Compatible",381.65,565.0,32.45132743362832,Asus,Monitores,1,241025
+316,"Asus TUF Gaming VG27AQ 27"" LED IPS Wide QuadHD HDR 165Hz Reacondicionado",401.7,565.0,28.902654867256643,Asus,Monitores,1,241025
+317,"Asus TUF Gaming VG27AQ 27"" LED IPS Wide QuadHD HDR 165Hz G-Sync Compatible",375.95,565.0,33.46017699115045,Asus,Monitores,1,241025
+318,"Asus TUF Gaming VG27AQ 27"" LED IPS Wide QuadHD HDR 165Hz G-Sync Compatible",366.4,565.0,35.15044247787611,Asus,Monitores,1,241025
+319,Asus ROG STRIX B550-F GAMING Reacondicionado,155.5,189.9,18.11479726171669,Asus,Placas Base,1,299957
+320,MSI Mpg Z390 Gaming Pro Carbon,161.4,199.9,19.259629814907456,MSI,Placas Base,1,172616
+321,MSI Mpg Z390 Gaming Pro Carbon,169.92,199.9,14.997498749374685,MSI,Placas Base,1,172616
+322,Corsair LL120 RGB Ventilador 120mm Reacondicionado,16.99,27.99,39.299749910682394,Corsair,Ventiladores Suplementarios,1,170724
+323,Thermaltake Pacific R1 Plus DDR4 Memory Lighting Kit Reacondicionado,41.7,44.99,7.312736163591907,Thermaltake,Modding,1,180169
+324,Tenda Nova MW3 Sistema WiFi Mesh Dual Band AC1200 Kit 2 Unidades Reacondicionado,48.25,64.99,25.757808893675943,Tenda,Wifi Mesh,1,207020
+325,Apple iPhone 11 128GB (Product) Red Libre,689.98,738.99,6.632024790592567,Apple,Smartphone/Móviles,1,233096
+326,Apple iPhone 11 128GB (Product) Red Libre Reacondicionado,711.58,738.99,3.7091164968402808,Apple,Smartphone/Móviles,1,233096
+327,Microsoft Xbox One Consola X Blanca + Fallout 76,329.5,499.95,34.09340934093409,Microsoft,Videoconsolas Xbox One,1,171503
+328,Huawei Band 4 Pulsera de Actividad  Sakura Pink,22.3,39.0,42.82051282051282,Huawei,Pulseras de Actividad,1,235095
+329,"Samsung LU28R550UQUXEN 28"" LED IPS UltraHD 4K FreeSync",276.26,325.01,14.9995384757392,Samsung,Monitores,1,257402
+330,Asus Prime Z390-A Reacondicionado,104.95,174.91,39.99771310959922,Asus,Placas Base,1,172096
+331,Realme 6 Pro 8/128GB Lightning Red Libre Reacondicionado,260.03,329.0,20.963525835866278,Realme,Smartphone/Móviles,1,279150
+332,Apple Watch Series 3 GPS 38mm Aluminio Plata Con Correa Deportiva Blanca Reacondicionado,203.65,228.99,11.065985414210232,Apple,Reloj SmartWatch,1,171034
+333,Corsair Virtuoso RGB Wireless SE Auriculares Gaming 7.1 Inalámbricos Reacondicionado,151.05,210.0,28.07142857142857,Corsair,Auriculares,1,243794
+334,Samsung Galaxy A21s 4/64Gb Blanco Libre Reacondicionado,199.33,229.0,12.956331877729255,Samsung,Smartphone/Móviles,1,301617
+335,Alcatel 2053D Negro Libre Reacondicionado,15.83,24.99,36.6546618647459,Alcatel,Móviles Básicos,1,183135
+336,Cooler Master MasterCase H100 RGB Mini-ITX USB 3.0 Reacondicionado,60.25,73.0,17.465753424657535,Cooler Master,Torres ATX,1,298643
+337,Ubiquiti UAP-AC-LR Punto de Acceso 5 GHz,86.6,109.99,21.26556959723611,Ubiquiti Networks,Puntos de Acceso,1,96345
+338,"Philips 288E2A/00 28"" LED IPS UltraHD 4K Reacondicionado",289.8,299.0,3.07692307692308,Philips,Monitores,1,302022
+339,MSI MPG B550 GAMING CARBON WIFI  Reacondicionado,196.75,204.9,3.9775500244021487,MSI,Placas Base,1,302198
+340,Gigabyte Z390 Aorus Pro,127.33,181.9,30.0,Gigabyte,Placas Base,1,173023
+341,Gigabyte Z390 Aorus Pro,146.9,181.9,19.241341396371638,Gigabyte,Placas Base,1,173023
+342,"MSI Prestige 14 A10SC-067XES Intel Core i7-10710U/16GB/1TB SSD/GTX 1650/14""",1179.14,1498.99,21.337700718483774,MSI,Portátiles,1,256231
+343,Gigabyte GeForce GTX 1660 SUPER Mini ITX OC 6GB GDDR6 Reacondicionado,204.75,229.9,10.939538929969558,Gigabyte,Tarjetas Gráficas,1,249188
+344,"Toshiba 58UA3A63DG 58"" LED  UltraHD 4K Reacondicionado",376.0,419.0,10.262529832935556,Toshiba,Televisores,1,315725
+345,Samsung Galaxy A41 4/64GB Blanco Libre Reacondicionado,237.38,299.0,20.608695652173907,Samsung,Smartphone/Móviles,1,294166
+346,Hori Racing Wheel Overdrive Xbox One/PC Reacondicionado,60.2,89.99,33.10367818646516,Hori,Volantes,1,170595
+347,"Philips 32PFS6805 32"" LED FullHD Reacondicionado",219.6,234.99,6.549214860206817,Philips,Televisores,1,301080
+348,Fitbit Inspire Pulsera de Actividad Vino Reacondicionado,55.9,68.99,18.97376431366864,Fitbit,Pulseras de Actividad,1,192456
+349,"LG 27GK750F-B 27"" LED FullHD 240Hz FreeSync",305.14,358.99,15.000417838937025,LG,Monitores,1,149131
+350,Cubot King Kong 2GB/16GB Dual Sim Negro Libre,86.98,129.0,32.57364341085271,Cubot,Smartphone/Móviles,1,166615
+351,"Keep Out XGM27PRO+ 27"" LED FullHD 240Hz Curvo Reacondicionado",248.5,272.0,8.639705882352942,Keep Out,Monitores,1,314584
+352,Garmin Vivoactive 3 Music Reacondicionado,168.8,259.99,35.07442593945922,Garmin,Reloj SmartWatch,1,166082
+353,"Equip Soporte de TV 60""- 100"" VESA 1098x807 Max 100Kg  Reacondicionado",58.55,79.98,26.794198549637414,Equip,Soportes,1,171435
+354,Gigabyte Z490 GAMING X Reacondicionado,139.0,169.9,18.18716892289582,Gigabyte,Placas Base,1,288960
+355,"Samsung C27RG50FQU 27"" LED FullHD 240Hz G-Sync Compatible Curva",257.4,305.0,15.606557377049185,Samsung,Monitores,1,240471
+356,Canon CanoScan LiDE 300 Escáner de Documentos Reacondicionado,43.8,66.65,34.28357089272319,Canon,Escaners,1,182182
+357,"Lenovo ThinkBook 15 IIL Intel Core i5-1035G1/16GB/512GB SSD/15.6""",839.14,928.99,9.671794098967695,Lenovo,Portátiles,1,311309
+358,Aerocool Astro 12 RGB Ventilador 120mm  Reacondicionado,7.35,8.89,17.322834645669303,Aerocool,Ventiladores Suplementarios,1,241388
+359,Samsung Galaxy Note 10 Plus 256GB Aura Glow Libre Reacondicionado,624.93,1108.99,43.64872541682072,Samsung,Smartphone/Móviles,1,225343
+360,Asus TUF GAMING B550M-PLUS,98.2,129.91,24.409206373643286,Asus,Placas Base,1,299965
+361,Batería de Portatil Sony Vaio BPS26/BPL26/VGP-BPL-26/VGP-BPS-26/VGP-BPS26A Reacondicionado,27.0,34.0,20.588235294117652,OEM,Repuestos Portátiles,1,103295
+362,Asus PRIME B460M-A,61.75,89.99,31.381264584953882,Asus,Placas Base,1,295050
+363,Sapphire Pulse Radeon RX 580 8GB GDDR5,186.92,219.91,15.001591560183712,Sapphire,Tarjetas Gráficas,1,124591
+364,MSI B365M PRO-VH,53.0,64.99,18.448992152638866,MSI,Placas Base,1,240492
+365,Aerocool Cylon Mini RGB USB 3.0 con Ventana Reacondicionado,25.55,31.98,20.10631644777986,Aerocool,Torres ATX,1,171059
+366,Huawei P40 Lite E 4/64GB Azul Libre Reacondicionado,146.78,199.0,26.24120603015075,Huawei,Smartphone/Móviles,1,281434
+367,Energy Sistem Energy Car Transmisor FM Bluetooth Pro Reacondicionado,19.65,24.89,21.052631578947384,Energy Sistem,Accesorios Automóvil,1,219007
+368,Apple iPhone 11 64GB Verde Libre Reacondicionado,627.63,689.0,8.907111756168362,Apple,Smartphone/Móviles,1,233076
+369,"LG 27UN83A-W 27"" LED IPS UltraHD 4K HDR FreeSync USB-C Reacondicionado",433.3,485.0,10.659793814432987,LG,Monitores,1,305589
+370,Apple iPhone 11 64GB Malva Libre Reacondicionado,664.93,689.0,3.4934687953555823,Apple,Smartphone/Móviles,1,233072
+371,Xiaomi Redmi Note 9 4/128GB Gris Libre Reacondicionado,201.33,248.99,19.141330977147675,Xiaomi,Smartphone/Móviles,1,296186
+372,"HP Envy 15-EP0004NS Intel Core i7-10750H/32GB/1TB SSD/GTX 1660Ti/15.6"" Reacondicionado",1404.09,1599.0,12.189493433395867,HP,Portátiles,1,311804
+373,Fitbit Charge 3 Pulsera de Actividad Grafito/Negra Reacondicionado,75.8,119.0,36.30252100840336,Fitbit,Pulseras de Actividad,1,171523
+374,Thermaltake A500 USB 3.0 Cristal Templado Gris Espacial,90.25,239.99,62.394266427767825,Thermaltake,Torres ATX,1,180286
+375,Thermaltake A500 USB 3.0 Cristal Templado Gris Espacial,175.8,239.99,26.74694778949123,Thermaltake,Torres ATX,1,180286
+376,Thermaltake A500 USB 3.0 Cristal Templado Gris Espacial,91.9,239.99,61.706737780740866,Thermaltake,Torres ATX,1,180286
+377,Realme 6i 4/128GB White Milk Libre Reacondicionado,155.63,178.99,13.051008436225487,Realme,Smartphone/Móviles,1,279157
+378,"Viewsonic VX Series VX2458-C-MHD 23.6"" LCD FullHD 144Hz FreeSync Curva Reacondicionado",132.55,188.99,29.864013968993063,Viewsonic,Monitores,1,178051
+379,"Asus ROG Swift PG259QN 24.5"" LED IPS FullHD 360Hz HDR G-Sync Reacondicionado",675.5,699.99,3.49862140887727,Asus,Monitores,1,324442
+380,"Samsung QE55Q80TAT 55"" QLED UltraHD 4K Reacondicionado",1280.95,1368.99,6.431018488082458,Samsung,Televisores,1,279958
+381,Energy Sistem BT Urban 2 Radio Auriculares Bluetooth Grafito Reacondicionado,16.95,24.9,31.92771084337349,Energy Sistem,Auriculares,1,219785
+382,Asus PRIME B550M-K Reacondicionado,84.6,89.99,5.989554394932767,Asus,Placas Base,1,299971
+383,Cecotec Bamba InstantCare 900 Perfect Brush Cepillo Alisador Cerámico Reacondicionado,14.75,19.9,25.87939698492461,Cecotec,Rizadores y Moldeadores,1,252356
+384,Wheel Stand Pro For Thrustmaster F458/F430/T80/T100 Negro Reacondicionado,58.6,95.0,38.31578947368421,OEM,Accesorios Gaming,1,96376
+385,Huawei P40 Lite 6/128GB Crush Green Libre Reacondicionado,209.23,298.99,30.021070938827393,Huawei,Smartphone/Móviles,1,268435
+386,MSI MPG X570 Gaming Edge WI-Fi Reacondicionado,148.25,199.9,25.837918959479737,MSI,Placas Base,1,219133
+387,LG SN5Y Barra de Sonido 400W RMS Reacondicionado,274.55,349.0,21.332378223495695,LG,Altavoces TV/Barras Sonido,1,300278
+388,Thermaltake Versa J24 TG RGB Edition USB 3.0 Cristal Templado Reacondicionado,23.9,79.99,70.12126515814477,Thermaltake,Torres ATX,3,172043
+389,Cecotec Conga Rockstar 500 Ultimate ErgoFlex Aspirador Escoba con Motor Digital 430W,149.75,219.0,31.621004566210047,Cecotec,Aspiradoras,1,266504
+390,Cecotec ForceSilence 500 Ventilador de Pie Oscilante Reacondicionado,12.65,29.9,57.69230769230769,Cecotec,Ventiladores Hogar,1,159760
+391,Samsung Galaxy A30s 4/128GB Verde Libre Reacondicionado,196.83,249.0,20.95180722891567,Samsung,Smartphone/Móviles,1,295454
+392,Xiaomi Pack Redmi Note 9 Pro 6/128GB Gris Libre + Mi Bluetooth Speaker High Version Reacondicionado,277.83,299.0,7.080267558528433,Xiaomi,Smartphone/Móviles,1,296174
+393,Asus TUF Gaming X570-Plus,177.55,219.91,19.262425537719977,Asus,Placas Base,1,217830
+394,"Acer R1 Series R241Y B 23.8"" LED FullHD FreeSync Reacondicionado",120.2,129.0,6.821705426356587,Acer,Monitores,1,267382
+395,Asus Prime A320M-A Reacondicionado,54.15,69.99,22.631804543506206,Asus,Placas Base,1,134890
+396,Cecotec Conga 2690 Robot Aspirador,267.05,349.0,23.48137535816619,Cecotec,Robot Aspiradoras,1,293251
+397,Energy Sistem Urban Box 2 Ocean Altavoz Bluetooth Reacondicionado,16.8,19.0,11.578947368421055,Energy Sistem,Altavoces,1,220189
+398,Hercules DJControl Inpulse 200 Controladora DJ Reacondicionado,74.5,99.99,25.492549254925493,Hercules,Mundo DJ,1,174234
+399,Razer Basilisk Ultimate Ratón Gaming 20000DPI Negro Reacondicionado,153.7,189.98,19.096747026002745,Razer,Ratones,1,246150
+400,Apple Watch Series 3 GPS 42mm Aluminio Gris Espacial Con Correa Deportiva Negra Reacondicionado,247.6,328.99,24.739353779750147,Apple,Reloj SmartWatch,1,171032
+401,MSI GeForce RTX 2060 Super Gaming X 8GB GDDR6,349.9,459.9,23.918243096325284,MSI,Tarjetas Gráficas,1,219627
+402,MSI GeForce RTX 2060 Super Gaming X 8GB GDDR6,375.3,459.9,18.39530332681018,MSI,Tarjetas Gráficas,1,219627
+403,Cecotec ForceTitanium 450 Plancha de Vapor 2600W,14.27,16.79,15.008933889219776,Cecotec,Planchado,1,210982
+404,"HP All-in-One 27-DP0010NS AMD Ryzen 3 4300U/8GB/512GB SSD/27"" Reacondicionado",567.34,599.01,5.287056977345955,HP,Ordenadores Todo en uno,1,293491
+405,Unotec Fit Pro Max Reloj Bluetooth Rosa Dorado Reacondicionado,39.6,44.0,10.0,Unotec,Reloj SmartWatch,1,316982
+406,Samsung Galaxy Note 10 Plus 256GB Negro Libre,599.73,1108.99,45.92106330985852,Samsung,Smartphone/Móviles,1,225339
+407,"MSI Creator 17M A10SD-211ES Intel Core i7-10750H/32GB/1TB SSD/GTX 1660Ti/17.3"" Reacondicionado",1674.34,1898.99,11.829972775001451,MSI,Portátiles,1,286364
+408,Splatoon 2 Nintendo Switch Reacondicionado,42.45,64.95,34.64203233256352,Nintendo,Juegos Nintendo Switch,1,133183
+409,"Philips 50PUS8535 50"" LED UltraHD 4K Reacondicionado",560.35,599.0,6.45242070116862,Philips,Televisores,1,301109
+410,Belkin Adaptador USB-C a HDMI Negro Reacondicionado,32.65,39.0,16.282051282051285,Belkin,Conectividad,1,260283
+411,Asus USB-AC53 Nano Adaptador Inalámbrico USB AC1200 MU-MIMO Reacondicionado,20.15,27.44,26.567055393586017,Asus,Adaptadores USB Red,1,129280
+412,Corsair iCUE QL120 RGB PWM Single Pack Negro 120 mm Reacondicionado,20.65,39.91,48.25858180907041,Corsair,Ventiladores Suplementarios,1,266387
+413,Epson WorkForce Pro WF-M5190DW Impresora Tinta Monocromo WIFI,81.2,199.98,59.39593959395939,Epson,Impresoras,1,294205
+414,Epson WorkForce Pro WF-M5190DW Impresora Tinta Monocromo WIFI Reacondicionado,85.15,199.98,57.42074207420742,Epson,Impresoras,1,294205
+415,Cubot King Kong Mini 3/32Gb Naranja Libre Reacondicionado,103.25,113.67,9.166886601565935,Cubot,Smartphone/Móviles,1,281665
+416,Xiaomi Mi 10 Lite 5G 6/64GB Azul Libre Reacondicionado,267.38,349.0,23.38681948424069,Xiaomi,Smartphone/Móviles,1,300204
+417,MSI H310M PRO-VDH Plus Reacondicionado,41.0,58.99,30.496694354975418,MSI,Placas Base,1,185757
+418,Gecko Funda Easy Click Negra para Samsung Galaxy Tab A 10.5 2018,5.5,24.99,77.99119647859143,Gecko,Fundas para Tablets,1,175644
+419,Gecko Funda Easy Click Negra para Samsung Galaxy Tab A 10.5 2018 Reacondicionado,5.65,24.99,77.39095638255301,Gecko,Fundas para Tablets,1,175644
+420,"Philips E-Line 276E8VJSB 27"" LCD IPS UltraHD 4K Reacondicionado",221.7,278.99,20.53478619305352,Philips,Monitores,1,171173
+421,"Owlotech Soporte Televisión de 17-65"" VESA 200x200/400x400 Máx 35kg Reacondicionado",10.4,29.98,65.31020680453636,Owlotech,Soportes,1,246237
+422,Apple iPhone 11 Pro Max 256GB Dorado Libre,1132.68,1429.0,20.73617914625612,Apple,Smartphone/Móviles,1,232948
+423,Apple iPhone 11 64GB (Product) Red Libre Reacondicionado,638.53,689.0,7.32510885341074,Apple,Smartphone/Móviles,1,233071
+424,Canon M100 24.2MP WiFi Negra + Objetivo EF-M 15-45mm F3.5-6.3 IS STM Reacondicionado,373.9,529.98,29.45016793086532,Canon,Cámaras Digitales,1,247762
+425,Apple Magic Keyboard Reacondicionado,72.55,93.0,21.989247311827953,Apple,Teclados,1,97096
+426,Realme Buds Air Auriculares Inalámbricos Blanco,49.4,69.99,29.418488355479354,Realme,Auriculares,1,279997
+427,Realme Buds Air Auriculares Inalámbricos Blanco,47.9,69.99,31.561651664523495,Realme,Auriculares,1,279997
+428,Honeywell 1200g Voyager Lector códigos de barras Negro USB,61.25,89.99,31.936881875763973,Honeywell,Componentes TPV,1,48824
+429,Honeywell 1200g Voyager Lector códigos de barras Negro USB Reacondicionado,61.9,89.99,31.21457939771085,Honeywell,Componentes TPV,1,48824
+430,Xiaomi Redmi Note 8T 4/64GB Gris Medianoche Libre,164.08,188.99,13.180591565691316,Xiaomi,Smartphone/Móviles,1,246401
+431,Samsung Galaxy S20 Plus 12/128GB 5G Cosmic Black Libre Reacondicionado,898.23,1108.99,19.004679933993998,Samsung,Smartphone/Móviles,1,262019
+432,Seagate Backup Plus Slim 1TB USB 3.0 Negro Reacondicionado,51.5,76.79,32.93397577809611,Seagate,Discos Duros,1,294612
+433,"SPC Gravity 4G 10.1"" IPS 2GB/16GB Blanca",93.11,129.0,27.821705426356587,SPC,Tablets,1,176265
+434,MSI MAG Vampiric 010M Cristal Templado USB 3.2 RGB Negra,48.8,59.0,17.288135593220332,MSI,Torres ATX,1,258165
+435,"AOC I2490PXQU/BT 23.8"" IPS FullHD Reacondicionado",127.15,189.0,32.72486772486772,AOC,Monitores,1,147557
+436,MSI Creator P100X 10SE-203EU Intel Core i9-10900K/64GB/4TB+1TB SSD/RTX 2080 SUPER Reacondicionado,2858.44,3299.0,13.354349802970603,MSI,Sobremesa,1,294606
+437,PowerColor Red Devil Radeon RX 5700 XT 8GB GDDR6,364.2,479.9,24.10918941446134,PowerColor,Tarjetas Gráficas,1,235965
+438,PowerColor Red Devil Radeon RX 5700 XT 8GB GDDR6,379.35,479.9,20.95228172535944,PowerColor,Tarjetas Gráficas,1,235965
+439,Gigabyte GeForce GTX 1660 OC 6GB GDDR5,183.8,229.9,20.052196607220537,Gigabyte,Tarjetas Gráficas,1,190585
+440,"Viewsonic X Series XG350R-C 35"" WVA WQHD 3D 100Hz FreeSync Curva Reacondicionado",545.4,728.99,25.184158904786074,Viewsonic,Monitores,1,194069
+441,Batería de Portatil HP DV4/DV5/CQ40/CQ45/CQ50/CQ60/CQ70 Reacondicionado,18.95,23.0,17.608695652173907,OEM,Repuestos Portátiles,1,64486
+442,"MSI Optix MAG341CQ 34"" LED UltraWide QuadHD 100Hz FreeSync Curva Reacondicionado",355.3,479.0,25.824634655532364,MSI,Monitores,1,199934
+443,"Samsung UE50TU8505 50"" LED UltraHD 4K",513.8,599.0,14.223706176961613,Samsung,Televisores,1,279945
+444,Fitbit Versa 2 Rosa Pétalo/Rosa Cobrizo Reacondicionado,160.9,199.0,19.145728643216074,Fitbit,Reloj SmartWatch,1,233194
+445,Honeywell MS-1202g Voyager Lector Código Barras Bluetooth,64.3,186.81,65.5800010706065,Honeywell,Componentes TPV,1,50639
+446,Honeywell MS-1202g Voyager Lector Código Barras Bluetooth,55.85,186.81,70.1033135271131,Honeywell,Componentes TPV,1,50639
+447,Honeywell MS-1202g Voyager Lector Código Barras Bluetooth Reacondicionado,74.05,186.81,60.36079439002195,Honeywell,Componentes TPV,1,50639
+448,"LG Gram 14Z90N Intel Core i5-1035G7/8GB/512GB SSD/14"" Reacondicionado",1110.69,1248.99,11.072946941128436,LG,Portátiles,1,281226
+449,Samsung Galaxy S20 Plus 12/128GB 5G Cloud Blue Libre Reacondicionado,1008.68,1108.99,9.04516722423105,Samsung,Smartphone/Móviles,1,262020
+450,Samsung Galaxy S20 Plus 12/128GB 5G Cosmic Gray Libre Reacondicionado,862.68,1109.0,22.21100090171325,Samsung,Smartphone/Móviles,1,262022
+451,Gigabyte B550 Gaming X,108.85,135.9,19.904341427520237,Gigabyte,Placas Base,1,300746
+452,Cecotec Conga 2090 Vision Robot Aspirador Reacondicionado,197.65,312.0,36.65064102564103,Cecotec,Robot Aspiradoras,1,293252
+453,Cecotec Bongo Serie Z Off Road Green Patinete Eléctrico,457.25,799.0,42.77221526908636,Cecotec,Patinetes,1,291637
+454,Cecotec Bongo Serie Z Off Road Green Patinete Eléctrico,530.25,799.0,33.63579474342929,Cecotec,Patinetes,1,291637
+455,Cecotec Bongo Serie Z Off Road Green Patinete Eléctrico,610.3,799.0,23.61702127659575,Cecotec,Patinetes,1,291637
